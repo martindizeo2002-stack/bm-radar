@@ -1,0 +1,1053 @@
+{
+  "handle": "ramiro.cubria",
+  "dias": 30,
+  "generado": "2026-10-26T10:11:09-03:00",
+  "perfil": {
+    "seguidores": 497246,
+    "posts": 3868,
+    "nombre": "Ramiro Cubria",
+    "bio": "📌 Te ayudo a vender más solo con contenido\n📌 Mi consultora hace +500K. Tengo 200 clientes entre 10k-500k\n📌 Empezá acá ↓",
+    "actualizado": "2026-09-25"
+  },
+  "historico": {
+    "n": 414,
+    "desde": "2026-03-16",
+    "med_com": 71.0
+  },
+  "agregados": {
+    "n": 114,
+    "fijados": 0,
+    "dias": 30,
+    "por_dia": 3.8,
+    "com_total": 53386,
+    "med_com": 58.5,
+    "med_likes": 213.5,
+    "med_views_reel": 18398,
+    "dur_med_reel": 91.8,
+    "slides_med": 6,
+    "formatos": {
+      "reel": {
+        "n": 81,
+        "med_com": 60,
+        "med_likes": 227,
+        "med_views": 18398
+      },
+      "carrusel": {
+        "n": 33,
+        "med_com": 23,
+        "med_likes": 64,
+        "med_views": null
+      }
+    },
+    "tipos": {
+      "solucion": 44,
+      "producto": 24,
+      "problema": 21,
+      "tofu": 13,
+      "mentalidad": 12
+    },
+    "formatos_analisis": {
+      "talking_head": 36,
+      "carrusel": 20,
+      "screen_recording": 16,
+      "caso_cliente": 14,
+      "pov_sketch": 14,
+      "otro": 7,
+      "entrevista_podcast": 3,
+      "listicle": 3,
+      "demo_producto": 1
+    },
+    "keywords": [
+      {
+        "keyword": "EDITAR",
+        "n": 1,
+        "com_total": 27719,
+        "med_com": 27719,
+        "recurso": "Guía completa de configuración"
+      },
+      {
+        "keyword": "PDF",
+        "n": 3,
+        "com_total": 6571,
+        "med_com": 2979,
+        "recurso": "Manual en PDF para instalar la automatización"
+      },
+      {
+        "keyword": "IA",
+        "n": 10,
+        "com_total": 2849,
+        "med_com": 207.5,
+        "recurso": "acceso a una IA que escribe guiones de contenido"
+      },
+      {
+        "keyword": "EDITOR",
+        "n": 1,
+        "com_total": 1621,
+        "med_com": 1621,
+        "recurso": "Guía completa para configurarlo en menos de un minuto"
+      },
+      {
+        "keyword": "YO",
+        "n": 13,
+        "com_total": 1620,
+        "med_com": 58,
+        "recurso": "video con el sistema completo"
+      },
+      {
+        "keyword": "CAPCUT",
+        "n": 1,
+        "com_total": 1543,
+        "med_com": 1543,
+        "recurso": "Los dos comandos y la guía paso a paso"
+      },
+      {
+        "keyword": "GUÍA",
+        "n": 1,
+        "com_total": 1163,
+        "med_com": 1163,
+        "recurso": "Masterclass gratuita de 37 minutos sobre agentes de IA"
+      },
+      {
+        "keyword": "CLAUDE",
+        "n": 3,
+        "com_total": 1130,
+        "med_com": 425,
+        "recurso": "Detalle del sistema de Follow Me Ads por DM"
+      },
+      {
+        "keyword": "GANCHO",
+        "n": 5,
+        "com_total": 1049,
+        "med_com": 148,
+        "recurso": "PDF de 4 páginas + IA que arma historias gancho"
+      },
+      {
+        "keyword": "JARVIS",
+        "n": 1,
+        "com_total": 741,
+        "med_com": 741,
+        "recurso": "El sistema JARVIS / prompt de instalación"
+      },
+      {
+        "keyword": "10",
+        "n": 2,
+        "com_total": 610,
+        "med_com": 305.0,
+        "recurso": "Los 10 agentes / instrucciones para crearlos"
+      },
+      {
+        "keyword": "DISCOVERY",
+        "n": 1,
+        "com_total": 572,
+        "med_com": 572,
+        "recurso": "Dashboard de Claude Code para curar inspiración"
+      },
+      {
+        "keyword": "VIDEO",
+        "n": 1,
+        "com_total": 561,
+        "med_com": 561,
+        "recurso": "Acceso a la herramienta y el prompt exacto"
+      },
+      {
+        "keyword": "MANY",
+        "n": 1,
+        "com_total": 546,
+        "med_com": 546,
+        "recurso": "Plantilla de árbol de Manychat anti-quebrados"
+      },
+      {
+        "keyword": "SISTEMA",
+        "n": 3,
+        "com_total": 517,
+        "med_com": 42,
+        "recurso": "Clase con el desglose paso a paso del sistema de Follow Me Ads"
+      },
+      {
+        "keyword": "100",
+        "n": 2,
+        "com_total": 508,
+        "med_com": 254.0,
+        "recurso": "Curso de 2 horas para agendar 100 llamadas por mes desde Instagram"
+      },
+      {
+        "keyword": "REPORTE",
+        "n": 1,
+        "com_total": 461,
+        "med_com": 461,
+        "recurso": "Link de instalación + mega prompt de 12 páginas"
+      },
+      {
+        "keyword": "CLASE",
+        "n": 3,
+        "com_total": 433,
+        "med_com": 36,
+        "recurso": "Clase con la estrategia completa"
+      },
+      {
+        "keyword": "5",
+        "n": 1,
+        "com_total": 386,
+        "med_com": 386,
+        "recurso": "Las 5 secuencias de ManyChat por DM"
+      },
+      {
+        "keyword": "GUION",
+        "n": 1,
+        "com_total": 308,
+        "med_com": 308,
+        "recurso": "Prompt exacto y conector de la herramienta"
+      },
+      {
+        "keyword": "BOT",
+        "n": 2,
+        "com_total": 297,
+        "med_com": 148.5,
+        "recurso": "tutorial completo y prompt de ManyChat con ChatGPT"
+      },
+      {
+        "keyword": "SOP",
+        "n": 5,
+        "com_total": 269,
+        "med_com": 36,
+        "recurso": "SOP / procedimiento de campañas Hammer Them"
+      },
+      {
+        "keyword": "CONTENIDO",
+        "n": 1,
+        "com_total": 237,
+        "med_com": 237,
+        "recurso": "SOP de contenido para hacerlo en menos de 2 horas semanales"
+      },
+      {
+        "keyword": "CURSO",
+        "n": 2,
+        "com_total": 235,
+        "med_com": 117.5,
+        "recurso": "Un curso gratis"
+      },
+      {
+        "keyword": "TOFU",
+        "n": 2,
+        "com_total": 131,
+        "med_com": 65.5,
+        "recurso": "Masterclass de 30 minutos sobre cómo llenar el tofu"
+      },
+      {
+        "keyword": "CEBOLLA",
+        "n": 1,
+        "com_total": 129,
+        "med_com": 129,
+        "recurso": "estructura de oferta escalable"
+      },
+      {
+        "keyword": "ADS",
+        "n": 1,
+        "com_total": 114,
+        "med_com": 114,
+        "recurso": ""
+      },
+      {
+        "keyword": "REGALO",
+        "n": 1,
+        "com_total": 105,
+        "med_com": 105,
+        "recurso": "Documento con +100 formas de aumentar retención"
+      },
+      {
+        "keyword": "BLUEPRINT",
+        "n": 1,
+        "com_total": 104,
+        "med_com": 104,
+        "recurso": "clase de una hora con el paso a paso para 30k/mes"
+      },
+      {
+        "keyword": "ALE",
+        "n": 1,
+        "com_total": 99,
+        "med_com": 99,
+        "recurso": "Loom con la estrategia de contenido completa"
+      }
+    ],
+    "hooks": [
+      {
+        "patron": "de X a Y: como lo hicimos",
+        "n": 2,
+        "med_com": 11.5
+      },
+      {
+        "patron": "cómo llevamos a X hasta cifra concreta",
+        "n": 2,
+        "med_com": 6.5
+      },
+      {
+        "patron": "herramienta conocida hace algo nuevo que no sabías",
+        "n": 1,
+        "med_com": 27719
+      },
+      {
+        "patron": "placa de último momento con novedad de plataforma",
+        "n": 1,
+        "med_com": 3557
+      },
+      {
+        "patron": "urgente + herramienta X ahora se conecta con Y",
+        "n": 1,
+        "med_com": 2979
+      },
+      {
+        "patron": "borrá X, borrá Y: ahora lo hace Z",
+        "n": 1,
+        "med_com": 1621
+      },
+      {
+        "patron": "ahora podés hacer X con la herramienta Y",
+        "n": 1,
+        "med_com": 1543
+      },
+      {
+        "patron": "la empresa X liberó un recurso gratis de Y minutos",
+        "n": 1,
+        "med_com": 1163
+      },
+      {
+        "patron": "el sistema con nombre propio que hace todo por vos",
+        "n": 1,
+        "med_com": 741
+      },
+      {
+        "patron": "sketch del diálogo interno frustrado",
+        "n": 1,
+        "med_com": 651
+      },
+      {
+        "patron": "el que está adentro reveló cómo se usa de verdad",
+        "n": 1,
+        "med_com": 631
+      },
+      {
+        "patron": "como hacer X en Y segundos + tutorial en pantalla",
+        "n": 1,
+        "med_com": 621
+      },
+      {
+        "patron": "diálogo de dos personajes con queja de puteada",
+        "n": 1,
+        "med_com": 577
+      },
+      {
+        "patron": "sketch de dos personajes: uno sufre el dolor, otro revela el método",
+        "n": 1,
+        "med_com": 572
+      },
+      {
+        "patron": "cómo lograr X en segundos, mirá este ejemplo",
+        "n": 1,
+        "med_com": 561
+      },
+      {
+        "patron": "anuncio tipo nacimiento con suspenso",
+        "n": 1,
+        "med_com": 546
+      },
+      {
+        "patron": "insulto directo por no hacer lo obvio",
+        "n": 1,
+        "med_com": 517
+      },
+      {
+        "patron": "si escribís X, la herramienta te da Y",
+        "n": 1,
+        "med_com": 466
+      },
+      {
+        "patron": "las N reglas para lograr X",
+        "n": 1,
+        "med_com": 461
+      },
+      {
+        "patron": "conectá [herramienta A] con [herramienta B]",
+        "n": 1,
+        "med_com": 461
+      },
+      {
+        "patron": "diálogo con un oráculo/IA que te explica qué hacés mal",
+        "n": 1,
+        "med_com": 458
+      },
+      {
+        "patron": "hice X en 5 minutos, mirá",
+        "n": 1,
+        "med_com": 425
+      },
+      {
+        "patron": "último momento / noticia que te cambia el juego",
+        "n": 1,
+        "med_com": 405
+      },
+      {
+        "patron": "las N cosas que necesitás en [año futuro]",
+        "n": 1,
+        "med_com": 386
+      },
+      {
+        "patron": "insulto directo al espectador + diagnóstico",
+        "n": 1,
+        "med_com": 370
+      }
+    ],
+    "horas": {
+      "0": 17,
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 4,
+      "11": 4,
+      "12": 11,
+      "13": 8,
+      "14": 4,
+      "15": 8,
+      "16": 10,
+      "17": 5,
+      "18": 7,
+      "19": 5,
+      "20": 14,
+      "21": 7,
+      "22": 1,
+      "23": 8
+    },
+    "dias_semana": {
+      "lun": 13,
+      "mar": 16,
+      "mié": 15,
+      "jue": 14,
+      "vie": 18,
+      "sáb": 17,
+      "dom": 21
+    },
+    "serie": [
+      {
+        "fecha": "2026-09-26",
+        "n": 1,
+        "com": 8
+      },
+      {
+        "fecha": "2026-09-27",
+        "n": 4,
+        "com": 516
+      },
+      {
+        "fecha": "2026-09-28",
+        "n": 3,
+        "com": 326
+      },
+      {
+        "fecha": "2026-09-29",
+        "n": 5,
+        "com": 28094
+      },
+      {
+        "fecha": "2026-09-30",
+        "n": 2,
+        "com": 245
+      },
+      {
+        "fecha": "2026-10-01",
+        "n": 2,
+        "com": 150
+      },
+      {
+        "fecha": "2026-10-02",
+        "n": 3,
+        "com": 151
+      },
+      {
+        "fecha": "2026-10-03",
+        "n": 4,
+        "com": 1051
+      },
+      {
+        "fecha": "2026-10-04",
+        "n": 5,
+        "com": 2371
+      },
+      {
+        "fecha": "2026-10-05",
+        "n": 3,
+        "com": 1675
+      },
+      {
+        "fecha": "2026-10-06",
+        "n": 5,
+        "com": 775
+      },
+      {
+        "fecha": "2026-10-07",
+        "n": 3,
+        "com": 70
+      },
+      {
+        "fecha": "2026-10-08",
+        "n": 4,
+        "com": 703
+      },
+      {
+        "fecha": "2026-10-09",
+        "n": 5,
+        "com": 948
+      },
+      {
+        "fecha": "2026-10-10",
+        "n": 3,
+        "com": 1581
+      },
+      {
+        "fecha": "2026-10-11",
+        "n": 4,
+        "com": 1454
+      },
+      {
+        "fecha": "2026-10-12",
+        "n": 4,
+        "com": 3093
+      },
+      {
+        "fecha": "2026-10-13",
+        "n": 2,
+        "com": 537
+      },
+      {
+        "fecha": "2026-10-14",
+        "n": 6,
+        "com": 290
+      },
+      {
+        "fecha": "2026-10-15",
+        "n": 3,
+        "com": 130
+      },
+      {
+        "fecha": "2026-10-16",
+        "n": 4,
+        "com": 511
+      },
+      {
+        "fecha": "2026-10-17",
+        "n": 5,
+        "com": 1161
+      },
+      {
+        "fecha": "2026-10-18",
+        "n": 3,
+        "com": 4382
+      },
+      {
+        "fecha": "2026-10-19",
+        "n": 3,
+        "com": 598
+      },
+      {
+        "fecha": "2026-10-20",
+        "n": 4,
+        "com": 422
+      },
+      {
+        "fecha": "2026-10-21",
+        "n": 4,
+        "com": 183
+      },
+      {
+        "fecha": "2026-10-22",
+        "n": 5,
+        "com": 156
+      },
+      {
+        "fecha": "2026-10-23",
+        "n": 6,
+        "com": 342
+      },
+      {
+        "fecha": "2026-10-24",
+        "n": 4,
+        "com": 574
+      },
+      {
+        "fecha": "2026-10-25",
+        "n": 5,
+        "com": 889
+      }
+    ],
+    "con_transcript": 77,
+    "con_slides": 33,
+    "analizadas": 114
+  },
+  "piezas": [
+    {
+      "id": "ig_De75pxEB7P4",
+      "cuenta": "ramiro.cubria",
+      "cuenta_fuente": "ramiro.cubria",
+      "url": "https://www.instagram.com/p/De75pxEB7P4/",
+      "tipo_media": "reel",
+      "fecha": "2026-10-25T23:35:08",
+      "caption": "Comentá ALE ⤵️",
+      "likes": 136,
+      "comentarios": 99,
+      "views": 9557,
+      "duracion": 126,
+      "fijado": false,
+      "analisis": {
+        "formato": "caso_cliente",
+        "tipo": "producto",
+        "nivel_conciencia": "consciente_solucion",
+        "hook_texto": "Mi clienta preguntó en la llamada: ¿con lo que tenemos hoy podríamos vender 100 mil dólares mensuales?",
+        "hook_patron": "la pregunta que hizo el cliente antes de comprar",
+        "estructura": [
+          "escena de la llamada de venta",
+          "diagnóstico duro: hoy no",
+          "resultado: 100k en dos meses",
+          "clave 1: ya sabía hacer contenido",
+          "clave 2: le faltaba dirección de ángulos",
+          "sostenimiento del resultado + CTA"
+        ],
+        "cta": "Comentá ALE y te mando el Loom con la estrategia",
+        "keyword": "ALE",
+        "por_que_pega": "Caso con números concretos y sostenidos en el tiempo más la revelación del mecanismo (ángulos), con el detalle fino guardado detrás del comentario.",
+        "angulo_bm_id": 43,
+        "angulo_bm_nombre": "Casos de alumnos",
+        "recreable": true,
+        "como_recrear": "Contar un caso de alumno BM con el número antes/después (margen 15% revendiendo vs 80% importando) y la frase exacta que dijo en la call, dejando el video completo detrás de keyword.",
+        "temas": [
+          "caso de éxito",
+          "ángulos de comunicación",
+          "escalar"
+        ],
+        "recurso_prometido": "Loom con la estrategia de contenido completa",
+        "angulo_comunicacion": "tenés audiencia y facturás poco: es pecado",
+        "tipo_angulo": "prueba_caso",
+        "avatar": "creador con audiencia que factura poco",
+        "promesa": "pasar de 15k a 100k por mes con dirección",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "transcript": "Alejandra Rincón es mi clienta y cuando se metió a una llamada con mi director comercial para ver si trabajar conmigo o no, le hizo la siguiente pregunta. ¿Tú crees que nuestro sistema de lo que tenemos ahora podría vender 100 mil dólares mensuales? Con el caos que tienen ahora, no, chicos. Pero pudiendo centralizar la comunicación y empezando a vender de manera privada, sí. Con la marca personal que tienes, con la cantidad de alcance que están teniendo que estén haciendo 10 mil dólares o 15 mil dólares, chicos. O sea, debería ser pecado, o sea. Bueno, es gracioso que mi director comercial le dijo Mira, como estás hoy no, pero con la cantidad de seguidores que tenés, es un pecado que estés haciendo 10, 15k por mes. Y efectivamente era un pecado, porque en menos de dos meses llegamos a 100k. Y no lo digo yo, escuchalo de sus propias palabras. Y en menos de un mes facturamos 100 mil dólares, haciendo todos los ajustes que nos recomendamos. Ahora, ¿dónde estuvo la clave para que Ale pase de 15 mil a 100 mil en menos de dos meses? Bueno, la primer clave es que Ale ya sabe crear buen contenido. Mucha gente pretende escalar sin saber c agarrar una c y grabarse sin entender formatos sin saber c hacer ganchos Y lamentablemente si no ten la skill de crear contenido te va a costar much escalar porque hoy en d todo es contenido Tenés que saber hacer contenido. Para correr anuncios tenés que grabar buenos anuncios, tenés que hacer buen contenido. Entonces Ale ya tenía la skill de creación de contenido. ¿Qué le faltaba? Dirección. ¿Y qué fue lo que hicimos en estas auditorías que te aparecen acá? Darle dirección, básicamente ayudarla a definir sus ángulos de comunicación. El principal error de la mayoría es improvisar los temas de los que hablan en los videos. Y cuando vos improvisás, te llenás de mierda el perfil. Es decir, te llenás de seguidores calificados que no tienen un peso para pagarte. Ahora, cuando le dimos dirección y le dimos en la tecla con los ángulos, empezó a escalar, empezó a llegar gente calificada. El mismo contenido que ella siempre había hecho, solamente que ahora tocando diferentes puntos de dolor de su cliente ideal, empezó a traer ahora gente calificada que le empezó a pagar. Y lo mejor de todo es que los 100.000 por mes los sostiene. Después de tocar 100.000 por primera vez, el segundo mes hizo 90.000 Y el mes pasado hizo 96.000 O sea que los estás sosteniendo Si querés que te pase este Loom en donde detallo toda su estrategia de contenido Comenta Ale acá abajo y te lo mando en menos de un minuto",
+      "idioma": "es",
+      "outlier_com": 1.39,
+      "outlier": 1.39,
+      "tasa_com": 0.0104,
+      "velocidad": 174.7,
+      "thumb_local": "thumbs/ig_De75pxEB7P4.jpg"
+    },
+    {
+      "id": "ig_De7pHcYBuLv",
+      "cuenta": "ramiro.cubria",
+      "cuenta_fuente": "ramiro.cubria",
+      "url": "https://www.instagram.com/p/De7pHcYBuLv/",
+      "tipo_media": "reel",
+      "fecha": "2026-10-25T21:10:05",
+      "caption": "Comentá BOT ⤵️",
+      "likes": 106,
+      "comentarios": 107,
+      "views": 11201,
+      "duracion": 34.033333,
+      "fijado": false,
+      "analisis": {
+        "formato": "screen_recording",
+        "tipo": "solucion",
+        "nivel_conciencia": "consciente_solucion",
+        "hook_texto": "¿Cómo automatizar tus mensajes de Instagram con ChatGPT?",
+        "hook_patron": "cómo hacer X en N pasos",
+        "estructura": [
+          "pregunta-promesa",
+          "paso 1 integración",
+          "paso 2 acción IA",
+          "paso 3 prompt",
+          "paso 4 vincular flujo",
+          "resultado + CTA palabra clave"
+        ],
+        "cta": "Comentá BOT y te mando el tutorial y el prompt exacto",
+        "keyword": "BOT",
+        "por_que_pega": "Tutorial completo pero cortado: da el esqueleto y reserva el prompt exacto detrás del comentario, mecanismo clásico de farmeo de keyword.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Mismo molde pero con el paso a paso de cotizar un producto en 1688 o calcular el costo puesto, dejando la plantilla o calculadora detrás de la keyword.",
+        "temas": [
+          "manychat",
+          "automatización",
+          "DM",
+          "chatgpt"
+        ],
+        "recurso_prometido": "tutorial completo y prompt de ManyChat con ChatGPT",
+        "angulo_comunicacion": "respondé y agendá en piloto automático",
+        "tipo_angulo": "educativo_como",
+        "avatar": "dueño de negocio digital que vende por DM",
+        "promesa": "respuestas 24h y llamadas agendadas solas",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "transcript": "¿Cómo automatizar tus mensajes de Instagram con ChatGPT? Paso 1. Entra a ManyChat. Anda a Configuración, Integraciones y Conecta, ChatGPT. Paso 2. Dentro de tu flujo, agrega una acción de ChatGPT para generar respuestas automáticas. Paso 3. Escribí un prompt claro donde le digas quién sos, cómo hablas, tu negocio, tu oferta y qué objetivo tiene cada respuesta. Hace que responda corto con tono natural y siempre dirija la charla hacia una llamada. Paso 4. Vinculá ese flujo a los mensajes directos o comentarios de Instagram. Resultado. Respondes a todos las 24 horas y agendas llamadas en piloto automático. Si quieres el tutorial completo y el prompt exacto que uso yo, comenta bot y te llega en menos de un minuto por DM.",
+      "idioma": "es",
+      "outlier_com": 1.51,
+      "outlier": 1.51,
+      "tasa_com": 0.0096,
+      "velocidad": 160.3,
+      "thumb_local": "thumbs/ig_De7pHcYBuLv.jpg"
+    },
+    {
+      "id": "ig_De7UCC2HC41",
+      "cuenta": "ramiro.cubria",
+      "cuenta_fuente": "ramiro.cubria",
+      "url": "https://www.instagram.com/p/De7UCC2HC41/",
+      "tipo_media": "carrusel",
+      "fecha": "2026-10-25T18:06:45",
+      "caption": "Comentá GANCHO ⤵️",
+      "likes": 241,
+      "comentarios": 577,
+      "views": null,
+      "duracion": null,
+      "fijado": false,
+      "analisis": {
+        "formato": "carrusel",
+        "tipo": "solucion",
+        "nivel_conciencia": "consciente_problema",
+        "hook_texto": "LA CONCHA DE LA LORA, TENGO RE POCAS VISTAS EN LAS HISTORIAS DE INSTAGRAM",
+        "hook_patron": "diálogo de dos personajes con queja de puteada",
+        "estructura": [
+          "queja en primera persona con lenguaje crudo",
+          "el otro personaje tira el concepto desconocido",
+          "prueba numérica (triple de vistas)",
+          "promesa del recurso (PDF + IA)",
+          "CTA comentá palabra"
+        ],
+        "cta": "Comentá GANCHO y te llega todo",
+        "keyword": "GANCHO",
+        "por_que_pega": "El formato chat/diálogo con puteada genera identificación inmediata y el recurso gratis (PDF + IA) es el gatillo directo del comentario.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Carrusel-diálogo rioplatense: 'tengo el margen en el piso revendiendo' / '¿no importás todavía?' y cerrar con comentá IMPO para la calculadora de costo puesto.",
+        "temas": [
+          "historias de instagram",
+          "vistas",
+          "recurso gratis"
+        ],
+        "recurso_prometido": "PDF de 4 páginas + IA que arma historias gancho",
+        "angulo_comunicacion": "la primera historia del día te triplica las vistas",
+        "tipo_angulo": "error_comun",
+        "avatar": "emprendedor que vende por instagram",
+        "promesa": "Triplicar vistas, respuestas y llamadas agendadas",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "slides_texto": [
+        {
+          "n": 1,
+          "texto": "LA CONCHA DE LA LORA LORO, TENGO RE POCAS VISTAS EN LAS HISTORIAS DE INSTAGRAM.\n¿USÁS HISTORIAS GANCHO?",
+          "visual": "Ilustración estilo cómic vintage: un hombre con gorra al revés grita enojado a un loro sentado en una mesa."
+        },
+        {
+          "n": 2,
+          "texto": "¿¿¿HISTORIAS QUE???\nHISTORIAS GANCHO, BOLUDO. LA PRIMER HISTORIA DEL DÍA\nTIENE UNA ESTRUCTURA ESPECÍFICA PARA TRIPLICAR LAS VISTAS EN TODAS LAS HISTORIAS QUE SUBAS DESPUÉS.",
+          "visual": "Dos viñetas: el hombre sorprendido señalándose la cabeza y un primer plano del loro explicando frente a un hogar."
+        },
+        {
+          "n": 3,
+          "texto": "¿TRIPLICAN LAS VISTAS? ¿EN SERIO?\nSÍ, MEN. UN BUEN HOOK EN LA PRIMERA STORY Y SE TE DISPARAN LAS VISTAS.\nLITERAL. SI USÁS HISTORIAS GANCHO TENÉS:\n• EL TRIPLE DE VISTAS\n• EL TRIPLE DE RESPUESTAS\nY EL TRIPLE DE LLAMADAS AGENDADAS PAPA",
+          "visual": "Tres viñetas: el hombre entusiasmado, el loro respondiendo y un listado de beneficios con estrella naranja."
+        },
+        {
+          "n": 4,
+          "texto": "PASÁ LA DATA YA. ¿TENÉS ALGUNA GUÍA DE HISTORIAS GANCHO?\nOBVIO, ESTE PDF DE 4 PÁGINAS Y ESTA IA QUE TE ARMA LAS HISTORIAS GANCHO :)\nHISTORIAS GANCHO\nMANUAL COMPLETO ALMANAQUE DE HISTORIAS DE INSTAGRAM",
+          "visual": "El hombre pide la data y el loro señala una laptop con el manual/IA en pantalla roja."
+        },
+        {
+          "n": 5,
+          "texto": "COMENTA \"GANCHO\" Y TE LLEGA TODO EN UN MINUTO!",
+          "visual": "Primer plano del loro en un living, con el llamado a la acción arriba en rojo y negro."
+        }
+      ],
+      "slides_local": [
+        "slides/ig_De7UCC2HC41/01.jpg",
+        "slides/ig_De7UCC2HC41/02.jpg",
+        "slides/ig_De7UCC2HC41/03.jpg",
+        "slides/ig_De7UCC2HC41/04.jpg",
+        "slides/ig_De7UCC2HC41/05.jpg"
+      ],
+      "lectura": {
+        "diseno": "Estilo historieta retro en papel amarillento, trazo a lápiz/grabado monocromo, globos de diálogo y tipografía bold en negro, rojo y verde para resaltar palabras clave; estrella naranja como remate.",
+        "estructura": "Hook con queja (pocas vistas) → el loro introduce el concepto de 'historias gancho' → prueba/beneficios (triple de vistas, respuestas, llamadas) → presentación del recurso (PDF + IA) → CTA.",
+        "cierre": "CTA directo: comentar la palabra 'GANCHO' para recibir el PDF y la IA en un minuto, reforzado en el caption."
+      },
+      "outlier_com": 8.13,
+      "outlier": 8.13,
+      "tasa_com": null,
+      "velocidad": 726.0,
+      "thumb_local": "thumbs/ig_De7UCC2HC41.jpg"
+    }
+  ],
+  "dossier": {
+    "cuenta": "ramiro.cubria",
+    "dias": 30,
+    "generado": "2026-09-25T07:52:59",
+    "veredicto": "Cubria farmea comentarios regalando herramientas de IA instalables, que no son lo que vende: las 10 piezas con más comentarios son de IA y juntan el 74,9% de los 41.785 del mes. El resto de la grilla (caso de cliente a las 20, reel de opinión a la noche) es prueba y posicionamiento que casi no comenta, y la venta pasa al DM casi sin nombrar la oferta.",
+    "secciones": [
+      {
+        "titulo": "Cómo farmea comentarios",
+        "items": [
+          "El recurso manda, no la palabra: la keyword PDF sacó de 1.572 a 4.859 cuando entregaba un tutorial de IA y de 36 a 96 cuando entregaba un PDF.",
+          "Herramienta o agente instalable: 18 piezas y 46,9% de los comentarios. Clase, curso o video: 57 piezas (48% del feed) y 6,3%.",
+          "Vive de outliers: 3 piezas hacen el 54,5% de los comentarios y la mitad de abajo (59 piezas) el 2,5%. Media 354, mediana 53.",
+          "Sin keyword no hay comentario: los 6 reels sin keyword tienen mediana 6 y ninguno entra al top 16 de reels.",
+          "El CTA es higiene, no palanca: 113 de 118 captions arrancan con 'Comentá' y decirlo en voz o no da igual (mediana 77 contra 78, sin casos).",
+          "En las piezas bala el comentario es peaje: 20 de 118 tienen más comentarios que likes; el cociente da 1,28 en IA y 0,09 en casos."
+        ]
+      },
+      {
+        "titulo": "Anatomía del reel",
+        "items": [
+          "Demo 'vení que te muestro' con la herramienta andando: 6 reels, mediana 526,5 comentarios y 13,5 cada 1.000 views, 5,6 veces la mejor familia restante.",
+          "Mejor gancho sin demo: el condicional 'Si [situación], hacé esto', 7 reels con mediana 102 y la mediana de views más alta (39.573).",
+          "Molde fijo: gancho de 12 palabras (3,3 s) y CTA hablado al 86% del video, a 10,5 s del final: 'comentá IA y te llega en menos de un minuto por DM'.",
+          "Un solo módulo de prueba por reel: credencial '500k' en 28 de 64 reels con su voz, caso de cliente en 18 y 0 que junten pivote, credencial, caso y CTA.",
+          "El testimonio suelto es la peor familia: 11 reels, mediana 6 comentarios, 53% del alcance mediano y ninguno con CTA hablado.",
+          "La duración no explica los comentarios (Spearman -0,08); pasar de 105 s cuesta entre 23% y 40% de las views."
+        ]
+      },
+      {
+        "titulo": "Anatomía del carrusel",
+        "items": [
+          "Molde de farmeo: portada con una herramienta de IA, 6 slides (21 de 38), un paso por slide y cierre con el recurso en mockup más la keyword (38 de 38).",
+          "La portada decide: demo IA son 9 piezas con mediana 903 y el 57,8% de los comentarios de carrusel; caso de cliente, 16 con mediana 2.",
+          "Plata en la portada marca el flojo: 6 de los 8 flojos llevan $ o K/mes; portada IA sin $ da mediana 933 contra 115,5 con $ y sin IA.",
+          "Los slides no pesan: mediana de 6 slides en el top y 6,5 en los flojos; sin los 16 casos, Spearman -0,15 (con los 38, +0,19).",
+          "KPI de keyword: mediana 1,79 comentarios por like en el top contra 0,72 en los flojos; ninguno de los 16 casos pasa de 1.",
+          "Mismo tema, otro formato: IA en carrusel da mediana 796,5 contra 188 en reel, y 7 de las 10 piezas top son carruseles."
+        ]
+      },
+      {
+        "titulo": "Temas, calendario y oferta",
+        "items": [
+          "Grilla programada: 118 piezas en 31 días, 0 días sin publicar, 3,81 por día y 37 salen en el minuto :00 o :01.",
+          "Tres carriles: IA de día (25 de 29 entre las 9 y las 17), caso de cliente a las 20 (18 de 29) y reel hablado a la noche (30 de 32 piezas de 22 a 03).",
+          "Pilares en extremos: IA es el 24,6% de las piezas y el 89,7% de los comentarios; casos, otro 24,6% con mediana 6.",
+          "No vende en el feed: SYK aparece en 9 piezas, casi todas capturas de casos, y ningún CTA pide agendar; todo termina en keyword y DM.",
+          "Fidel es el caso ancla: 10 piezas (8,5%), 1 sola como caso propio, '+100K/mes' en las 10 y cero menciones del handle @fidel_guajardo.",
+          "Recicla a 1 o 2 semanas: el mismo reel musical subido 3 veces en 14 días, reeditado de 66 a 88 s y con keyword CURSO, PDF y CURSO (36.723, 20.869 y 60.572 views)."
+        ]
+      },
+      {
+        "titulo": "Qué separa el top del fondo",
+        "items": [
+          "Una variable explica casi todo: herramienta IA es 10 de los 16 reels top y 8 de los 8 carruseles top, y 0 en el fondo.",
+          "No es alcance: el top tiene 2,3 veces más views pero 25 veces más comentarios cada 1.000 (7,9 contra 0,31).",
+          "Comentarios cada 1.000 views según recurso: herramienta 9,6, documento 2,2, clase 1,4, sin recurso 0,4.",
+          "Nombre de cliente como keyword cae abajo: 0 de 16 en el top de reels, 8 de 16 en el fondo y los 8 últimos lugares de carrusel.",
+          "El contrarian no junta: 26 de 80 reels (32,5%) con mediana 33; sin casos, 9 de los 13 del fondo son contrarian.",
+          "La 'mala hora' de las 20 es la grilla de casos: sin ellos, el carrusel de 17 a 20 hs da 772 contra 425 de 12 a 16 hs."
+        ]
+      },
+      {
+        "titulo": "Qué no le sirve a BM",
+        "items": [
+          "Farmear con IA genérica: su propio core (orgánico contra anuncios) da mediana 41,5 en reels y 0 de 16 en el top; en BM el recurso tiene que ser de impo.",
+          "El tono de reto y puteada: la familia reto da mediana 27, la más baja con su voz, y con 3 o más puteadas cae a 40 contra 71.",
+          "Cifras que cambian de versión: el gasto de 20K se corrige a 15K dentro del mismo reel. BM usa una cifra fija y con fecha.",
+          "Skins temáticos en casos: 16 carruseles con 8 disfraces (Netflix, Mario, Windows XP) y el mejor llegó a 40 comentarios.",
+          "Anti-anuncios de fachada: dice pautar entre 15K y 20K por mes (15K en la mayoría de los reels) y 7 de sus 15 piezas contra los anuncios cierran vendiendo su método de ads."
+        ]
+      }
+    ],
+    "robar": [
+      {
+        "titulo": "La cuenta en pantalla: lo que te cobra tu proveedor contra traerlo de China",
+        "formato": "Reel · demo en la compu, 45-60 s. La Cuenta en pantalla antes del segundo 3 con un producto nuevo (no el de 7 y 100 dólares del 3-ago), cifras verificadas por Nahue con captura del mayorista o de Mercado Libre y de 1688. Pasos 1-2-3 sobre lo que pide la herramienta: qué producto vendés, cuánto pagás hoy por unidad, a cuánto lo vendés y cuántas por mes. El resultado se lee en voz alta. CTA hablado a 10-15 s del final ('comentá COSTOS y te escribo por privado'), sin prometer tiempo ni que el link llega al toque. Caption de una línea",
+        "hook": "Esto es lo que te cobra tu proveedor por este producto y esto es lo que te sale traerlo de China, vamos a la compu que te muestro la cuenta.",
+        "keyword": "COSTOS",
+        "recurso": "La Cuenta, la IA que compara lo que le pagás hoy a tu proveedor contra importarlo (impo-la-cuenta.netlify.app, viva). Llega después del abridor de ManyChat, no al comentar. (crear flow) COSTOS nuevo: apagar el de 2025, que entregaba un video, y armar uno solo junto con la secuencia de historias ML vs 1688, que tenía COSTOS reservada y es el mismo tema (proveedor local contra China). GUIA sigue en cuarentena por la calculadora rota",
+        "por_que": "Roba la demo 'vení que te muestro' con la herramienta andando desde el arranque. Es la pieza #1 de Cubria: 13.627 comentarios, el 32,6% de todo lo que juntó en 30 días. Los 6 reels demo tienen mediana 526,5 comentarios contra 52 de la cuenta y 13,5 cada 1.000 views contra 2,4 como máximo del resto, con las mismas views (23.193). Nahue ya lo probó: 'así uso mi calculadora en China' (29-abr) sacó 801 con el CTA solo hablado, y el antecedente directo es el reel del 3-ago ('en Mercado Libre a 100 dólares y en China 7'), 1.002 comentarios con CALCULADORA. Ese producto está quemado: el 31-ago volvió con las mismas cifras y sacó 15. Por eso va un producto nuevo y la demo muestra lo que la herramienta hace de verdad (proveedor actual contra importar), que es el molde del 4-ago ('compro en el 11... vamos a la compu', 347).",
+        "referencia_id": "ig_DctycxKBj1x"
+      },
+      {
+        "titulo": "Qué importo, la herramienta en vivo",
+        "formato": "Reel · demo en pantalla, 45-60 s. Pasos 1-2-3: cargás a qué te dedicás o de qué sabés (por ejemplo 'soy mecánico, me gusta el gym'), la herramienta procesa y después se recorre el output (producto sugerido, por qué, riesgo). CTA hablado al final, caption 'Comentá NICHO'",
+        "hook": "Es una locura. Le contás a qué te dedicás o de qué sabés y te dice qué producto traer de China, vení que te muestro.",
+        "keyword": "NICHO",
+        "recurso": "¿Qué Importo?, la IA que sugiere qué producto traer según a qué te dedicás o de qué sabés, pensada para el que arranca (impo-que-importo.netlify.app, viva). Después del abridor. (crear flow) NICHO: la keyword ya corrió en 2025, revisar que no conteste un flow viejo",
+        "por_que": "Roba la demo con lectura del resultado de ig_DdZHtH4z0LX ('esto es una locura, vení que te muestro', paso 1-2-3 y lee lo que devolvió la herramienta). Sacó 851 comentarios con 63.001 views, 13,5 cada 1.000, casi 6 veces la mejor familia sin demo (tutorial 2,4). De los 10 reels con más comentarios entre los de 72 h o más, 5 son demo. Ojo que en Cubria demo e IA vienen juntos: esta pieza testea si la demo rinde con una herramienta del nicho. El hook dice lo que la herramienta pide de verdad (perfil, no negocio). NICHO y no RUBRO: RUBRO le habla al que ya vende y esta herramienta es '¿qué importo si estoy empezando?'. NICHO sacó 1.675 comentarios en feb-2025 en la cuenta de Nahue, es la que proponía la memoria de recursos IA y 'nicho' aparece en 194 hilos de DM.",
+        "referencia_id": "ig_DdZHtH4z0LX"
+      },
+      {
+        "titulo": "No le pagues al proveedor sin chequear estas 5 cosas",
+        "formato": "Reel · talking head en el depósito y después pantalla con el checklist legible a medias, 50-60 s. Prohibición, las 5 cosas nombradas sin el detalle, qué te pasa si no las chequeás, CTA hablado al final",
+        "hook": "No le pagues un peso a un proveedor de China sin antes chequear estas 5 cosas.",
+        "keyword": "PROVEEDOR",
+        "recurso": "(crear) Checklist para chequear un proveedor de 1688 antes de pagar: fábrica o revendedor, años activo, fotos de fábrica, condiciones 30% anticipo y 70% contra BL, señales de alarma. El prompt para pasarlo por una IA va como anexo, no como gancho. Después del abridor. (crear flow) PROVEEDOR: se usó en ago-2025 (190 y 151 comentarios), revisar que no conteste un flow viejo",
+        "por_que": "Roba la prohibición 'no vuelvas a publicar nada sin antes configurar esto' de ig_DcjYFlyz2Bn: el hook prohíbe, lo que hay que chequear aparece en pantalla pero incompleto y comentar es la forma de tenerlo entero. Sacó 188 comentarios, 11,1 cada 1.000 views, contra 2,4 como techo de las familias sin demo. Se roba la estructura, no el registro: 'inteligencia artificial' aparece 0 veces en los 371 transcripts de Nahue, y vender que la IA valida proveedores le resta a la red validada y al trader, que son el diferencial de BM. Pega en el miedo #1 de las calls ('y si el chino me caga', 38%), que ya tiene el sketch #21 aprobado para grabar el 22-sep. Esta pieza es la versión práctica y el checklist puede ser el recurso del sketch; si salen las dos, separarlas 7 días o más.",
+        "referencia_id": "ig_DcjYFlyz2Bn"
+      },
+      {
+        "titulo": "Aduana por rubro, el condicional con plantilla",
+        "formato": "Reel · talking head en el depósito y después pantalla con la lista, 60-75 s. Miedo concreto, lo que nadie tiene armado, CTA hablado al final",
+        "hook": "Si importás de China y no querés que la aduana te frene el contenedor, hacé esto antes de comprar.",
+        "keyword": "ADUANA",
+        "recurso": "(crear) Tier list de rubros: cuáles tienen intervención y cuáles creés prohibidos y no lo están (ángulo 44, ya aprobado para grabar). Después del abridor. (crear flow) ADUANA",
+        "por_que": "Roba el condicional 'si usás ManyChat y no querés que te baneen, hacé esto' de ig_Dc4Fn7ZBOJg: miedo concreto y masivo, pantalla con algo que nadie tiene armado y una plantilla como recurso. Sacó 463 comentarios con 57.537 views. Los 7 condicionales de Cubria tienen mediana 102 comentarios y 39.573 views, la mejor mediana de views de las 9 familias. En BM el 'si vos estás' genérico murió (0 en el top 25); este rinde porque nombra la situación exacta. Intervenciones por rubro es el hueco #1: 106 hilos de DM y 23 calls.",
+        "referencia_id": "ig_Dc4Fn7ZBOJg"
+      },
+      {
+        "titulo": "El producto que más margen deja te funde (bloqueada)",
+        "formato": "Reel · talking head con los dos ejemplos lado a lado en pantalla (A se queda clavado, B rota), 60-80 s. Regla y CTA hablado al final. No se graba hasta que exista el recurso",
+        "hook": "Si vas a traer tu primer producto de China, no elijas el que más margen te deja.",
+        "keyword": "ROTACION",
+        "recurso": "(crear) Recurso de rotación contra margen: cómo elegir el primer producto por lo que rota y no por lo que deja, con el ejemplo A contra B, publicado como página web (como /quimico), nunca PDF. La Guía Urso no sirve: su pilar 3 dice 'apuntá a márgenes mayores al 50%', la fórmula Urso multiplica por el margen y solo existe como PDF. Otra salida es reescribir ese pilar con rotación y publicar la guía como página. BLOQUEADA hasta que el recurso exista. Después del abridor. (crear flow) ROTACION: no se usa PRODUCTO porque en 2025 entregaba la lista de 50 productos",
+        "por_que": "Roba el condicional con ejemplo A contra B de ig_DdpAsTFhmjJ ('si le querés vender a los ricos, cuidá las palabras que usás'): dos casos comparados en voz alta, la regla y la lista completa como recurso. Sacó 140 comentarios, 2,7 veces la mediana de reels (52). Acá A es el de más margen que se queda clavado y B el que rota. Es el ángulo 47 (rotación, no margen), en 14 calls con el lenguaje de ellos ('el dinero es oxígeno'). El recurso tiene que decir lo mismo que el hook: el que comenta por 'no elijas el de más margen' no puede recibir 'buscá el de más margen'.",
+        "referencia_id": "ig_DdpAsTFhmjJ"
+      },
+      {
+        "titulo": "El contenedor entero en la primera, contrarian con sustituto",
+        "formato": "Reel · contrarian en el depósito, 50-60 s. Ataque, 'sí funciona, pero', el pool como sustituto, credencial al final ('más de 7 contenedores por mes'), CTA hablado",
+        "hook": "Traer un contenedor entero en tu primera importación es lo peor que podés hacer.",
+        "keyword": "POOL",
+        "recurso": "Video de YouTube 'Pool de importaciones explicado' (existe, youtu.be/rK8HRqnJg9E) + (crear) una hoja solo con lo firme: mínimo USD 1.000, 60 a 90 días del pedido al depósito, no hace falta ser Responsable Inscripto y el monotributista participa, cada uno paga proporcional a lo que compra y al volumen que ocupa, con la tabla vigente antes de comprar. Nada de $/m³ ni de cómo se reparte en lo fiscal (pendiente de contador y despachante). Después del abridor. Ajustar el flow POOL para sumar la hoja",
+        "por_que": "Roba el contrarian con rescate de ig_DdhK8WsT-Y8 (ataca el formato YAP que todos copian, 'sí funciona, pero sin estructura no', y vende el documento como lo que falta). Sacó 261 comentarios, 6 veces la mediana de su familia (42): el contrarian suelto rinde abajo de la cuenta y este tenía recurso usable. Cumple la regla BM de contrarian siempre con sustituto. El pool está en 58% de las calls y ya sacó 149 comentarios en el reel de Nahue del 27-ago. La hoja lleva solo lo confirmado: el plazo vigente es 60 a 90 días (el 45-75 del deck estaba mal) y el $/m³ cambia semana a semana.",
+        "referencia_id": "ig_DdhK8WsT-Y8"
+      },
+      {
+        "titulo": "Tu proveedor te compite en Mercado Libre, con Alexis adentro",
+        "formato": "Reel · sketch actuado de 10 s (el revendedor encuentra en Mercado Libre la publicación de su proveedor al mismo precio que le cobra a él) y corte a cámara, 60-80 s. Un solo módulo de prueba: Alexis Ibañes, Todo Para El Barbero, con su frase textual. CTA hablado al final",
+        "hook": "Tu proveedor te está matando con los precios: te lo deja a 10 lucas y él mismo lo vende a 10 lucas en Mercado Libre.",
+        "keyword": "FABRICA",
+        "recurso": "(crear) Tutorial para encontrar en 1688 la fábrica de lo que hoy le comprás a tu proveedor, con una foto. Después del abridor. (crear flow) FABRICA",
+        "por_que": "Roba el sketch de rescate de ig_Dcz13pgTDI_ ('les dije que dejen de vender con referidos y no me hicieron caso'), que ataca una dependencia: 60.506 views, casi 3 veces la mediana de reels. Se roba el sketch y no la frase, que es de Cubria y aparece 0 veces en Nahue. El hook usa su léxico ('te está matando con los precios', 'lucas') y el dolor exacto de Alexis. Ojo: el 29-ago Nahue usó 'si tu proveedor te está matando con los precios' en un Q&R sin caso y sin keyword en el caption y sacó 2. Acá cambian el sketch, el caso y la herramienta. El sketch trae alcance y no comentarios (1,8 cada 1.000), así que se cambia la guía por una herramienta y el caso entra como prueba, como hace Cubria con Fidel: citado dentro de un tema sacó 149 y con su nombre como keyword, 27 de mediana. Alexis Ibañes ('mis proveedores estaban compitiendo hasta conmigo mismo') es el Fidel de BM, y el proveedor que te cambia el precio está en 46% de las calls.",
+        "referencia_id": "ig_Dcz13pgTDI_"
+      },
+      {
+        "titulo": "Montaje del contenedor sin voz",
+        "formato": "Reel · montaje sin voz de un contenedor descargando en el depósito, tema musical fijo que se reusa, texto corto en pantalla que promete la guía. Keyword solo en el caption 'Comentá IMPORTADOR'. Antes de editar, confirmar que el tema está en la librería de música de la cuenta (las cuentas de empresa la tienen limitada)",
+        "hook": "Así llega un contenedor de China a nuestro depósito.",
+        "keyword": "IMPORTADOR",
+        "recurso": "Guía del Importador (existe, Doc con bases, contactos y costos). (crear flow) IMPORTADOR antes de publicar: hoy la guía no tiene flow. Después del abridor",
+        "por_que": "Roba el reel de música sin voz con keyword en el caption de ig_Dc6X7xGzAwk: visual mudo, texto en pantalla que promete el recurso y 'Comentá IA'. Sacó 162 comentarios con 51.245 views, arriba de la mediana de la cuenta (52 y 22.521). Los 5 reels de música de Cubria tienen mediana 86 comentarios y 36.723 views sin grabar nada, y reusan la misma canción en 3 de los 5. El comentario sale del caption, así que el recurso es el que farmea y la keyword tiene que nombrarlo: IMPO, la que tenía asignada la guía, es la mezcla (14% llega a propuesta, 48% zombies) y el 22-jul sacó 3. Para BM es la pieza más barata y cae en on-site depósito, que rinde 2,02x contra 0,89x del talking head.",
+        "referencia_id": "ig_Dc6X7xGzAwk"
+      },
+      {
+        "titulo": "El certificado en 72 horas, suplementos desde USA",
+        "formato": "Reel · revelación en primera persona, talking head con la tabla Argentina contra USA en pantalla y la condición escrita ('con la fórmula aprobada y la documentación en regla'), 60-75 s. CTA hablado al final",
+        "hook": "Yo fabrico mis suplementos en Estados Unidos y, con la fórmula aprobada, el certificado sale en 72 horas. En Argentina se me iban 3 a 4 meses antes de tener una sola unidad.",
+        "keyword": "QUIMICO",
+        "recurso": "Guía Suplementos y Químicos desde USA (existe, consultoria.creatubrand.com/quimico). (crear flow) QUIMICO, sigue pendiente. Antes de publicar, validar las 72 horas con Nahue o el gestor, porque el corpus de Discord habla de 30 a 45 días para libre circulación. Después del abridor",
+        "por_que": "Roba la revelación de ig_DcofRsMTJa3: una frase que suena imposible, la confirmación en pantalla y el paso a paso como recurso. Sacó 990 comentarios con 25.973 views, 38,1 cada 1.000 (la segunda mejor tasa de la cuenta) y 3 comentarios por like. El 'me creerías si te digo' es de Cubria (0 en Nahue): acá la revelación la carga el dato en primera persona, como en la guía ('yo tengo una marca de suplementos'). La comparación es la de la guía y no se recorta: 72 horas de certificado con la fórmula aprobada contra 3 a 4 meses de aprobación, fórmula, packaging y producción en Argentina hasta la primera unidad. La línea químicos es la menos explotada de 2026: QUIMICO sacó 137 el 18-ago.",
+        "referencia_id": "ig_DcofRsMTJa3"
+      },
+      {
+        "titulo": "Si tu proveedor no te factura, el quilombo es tuyo",
+        "formato": "Reel · talking head en el depósito, 60-70 s. Síntoma (no podés facturar porque te venden en negro), la causa (comprás en el último eslabón, que no factura), qué hacer, CTA hablado al final",
+        "hook": "Si tu proveedor no te factura, el quilombo fiscal lo terminás pagando vos.",
+        "keyword": "BLANCO",
+        "recurso": "(crear) Paso a paso para importar en blanco siendo monotributista: qué necesitás, qué no, qué te pide la aduana, hasta dónde llega el tope de facturación del monotributo y cuándo conviene pasar a Responsable Inscripto. Validarlo con contador antes de publicar. Después del abridor. (crear flow) BLANCO",
+        "por_que": "Roba la estructura de 'si te restringen los mensajes a cada rato, no es normal y estás spameando' de ig_DdCVaSVBAv0: nombra un síntoma que el avatar ya naturalizó, le saca la culpa equivocada y le pone la causa. Sacó 113 comentarios, 2,2 veces la mediana de reels, con un sistema instalable como recurso. El 'no es normal' es de Cubria (0 en Nahue): el hook va con su léxico (en negro, quilombo, y el 'te vas a poder ir a dormir tranquilo, no vas a tener ningún tipo de problema fiscal' del 24-jul). En BM pega en el ángulo del ticket más alto de septiembre ('no facturo y no puedo crecer') y en monotributista, que se resolvió en vivo 4 veces y las 4 cerraron. Como el monotributo tiene tope de facturación, el recurso dice hasta dónde llega y cuándo pasar a RI, para no prometer un camino que choca con el tope.",
+        "referencia_id": "ig_DdCVaSVBAv0"
+      },
+      {
+        "titulo": "La muestra que no llega en el contenedor, tutorial en 4 pasos",
+        "formato": "Carrusel · 6 slides. Portada crema con la caja de la muestra en 3D al lado del contenedor y la trampa en el título, pasos 1 a 4 uno por slide con captura, última slide con mockup del checklist titulado y 'Comentá MUESTRA'. Caption de una línea, nada de CTA en la portada",
+        "hook": "La muestra que te manda el proveedor no es la que llega en el contenedor. (Así lo evitás)",
+        "keyword": "MUESTRA",
+        "recurso": "(crear) Checklist de la muestra: cómo pedirla, qué revisar cuando llega, cuándo conviene saltearla y qué hacer si no coincide con la producción. Después del abridor. (crear flow) MUESTRA",
+        "por_que": "Roba el carrusel #1 de Cubria, ig_DdfI-cQHOX- ('Dale un número de WhatsApp a Claude. (Sí, de verdad)'): portada con paréntesis sobre algo que suena imposible, 4 pasos con captura, mockup del recurso con título propio y la keyword solo al final. Sacó 4.859 comentarios, más que likes (1,91). El molde funciona por la incredulidad, así que la portada no da el consejo obvio de pedir la muestra: nombra la trampa (lo que probaste no es lo que llega) y el paréntesis promete la salida. Los 15 carruseles de herramienta instalable hacen el 44,3% de los comentarios de toda la cuenta, con mediana 772. La muestra aparece en 41 hilos de DM y tiene 0 videos de Nahue.",
+        "referencia_id": "ig_DdfI-cQHOX-"
+      },
+      {
+        "titulo": "50 productos gratis, la pila numérica",
+        "formato": "Carrusel · 5 slides. Portada con el 50 gigante y GRATIS, qué son y con qué topes (courier por régimen simplificado, 50 kg por bulto, USD 3.000 por envío, sin intervenciones), 'no tenés que traer los 50, arrancá por estos 6', cómo se validan, mockup y CTA",
+        "hook": "50 productos que podés importar sin intervenciones. Gratis.",
+        "keyword": "LISTA",
+        "recurso": "Guía de 50 productos + régimen simplificado + sistema de validación (existe, Doc oficial). Después del abridor. LISTA corrió el 7-sep y el 14-sep: publicar con 7 días o más desde la última",
+        "por_que": "Roba la pila de ig_DdH4j-JnJgW ('250 AGENTES DE IA. GRATIS.'): el número cuenta lo que te llevás, 'no tenés que usar todos, empezá por estos 6' y CTA. Sacó 4.307 comentarios. Cuando el número de Cubria cuenta herramientas (250, 150, 4, 5) la mediana es 457; cuando cuenta horas o páginas, 120. En Nahue la guía ya rindió: LISTA sacó 356 comentarios el 10-feb y es de las keywords que convierten. La portada dice 'sin intervenciones' y no 'sin restricciones': la guía es para courier con topes de 50 kg por bulto y USD 3.000 por envío, y la pieza de aduana del mismo lote dice que hay rubros intervenidos.",
+        "referencia_id": "ig_DdH4j-JnJgW"
+      },
+      {
+        "titulo": "Lo más vendido de Mercado Libre no es para vos",
+        "formato": "Carrusel · 7 slides. Portada con los logos de Mercado Libre y 1688 unidos en 3D + '(Deslizá para ver)'. Una slide por paso con captura: por qué copiar el más vendido te clava (competís por precio), leer las quejas en las reseñas del más vendido, buscar en 1688 la versión que las resuelve, pedir la modificación con tu marca. Slide 'fundamental' que desactiva el miedo (en blanco y con factura). Último paso con La Cuenta y mockup del tutorial",
+        "hook": "Lo más vendido de Mercado Libre no es para vos. Buscá la versión mejor en 1688. (Deslizá para ver)",
+        "keyword": "1688",
+        "recurso": "(crear) Tutorial de lo más vendido en Mercado Libre a tu versión mejorada en 1688, con salida a marca propia, y La Cuenta (viva) en el último paso con lo que pide de verdad: lo que pagás hoy por unidad, a cuánto lo vendés y cuántas por mes. Separarlo 7 días o más de la pieza FABRICA. Después del abridor. (crear flow) 1688",
+        "por_que": "Roba ig_DdhtxN5HMDw ('Conectá Instagram con Claude. (Deslizá para ver)'): dos marcas conocidas unidas como objeto 3D en portada, una slide por función y una que saca el miedo antes del CTA. Sacó 772 comentarios. Las portadas de Cubria con marca de terceros tienen mediana 821 contra 317 sin marca. El enfoque respeta la frase firma #1 de Nahue ('se fijan en Mercado Libre cuál es el más vendido, lo buscan acá, compiten por precio... y se terminan clavando'): la portada no enseña a copiar el más vendido, enseña a mejorarlo y salir con marca mostrada. 1688 aparece en 218 líneas de DMs.",
+        "referencia_id": "ig_DdhtxN5HMDw"
+      },
+      {
+        "titulo": "La plantilla de stock y caja",
+        "formato": "Carrusel · 8 slides. Portada con mockup 3D de la planilla, 6 slides con el mismo formato (qué es, para qué sirve, captura con datos de ejemplo), mockup del recurso y CTA",
+        "hook": "La plantilla con la que planificamos stock y caja.",
+        "keyword": "STOCK",
+        "recurso": "Plantilla de cashflow y reposición (existe, Plantilla Cashflow 2026 + casa-perfecta-cashflow.netlify.app). Después del abridor. (crear flow) STOCK",
+        "por_que": "Roba ig_DdmHm0dHPsD ('Mi negocio entero vive en un dashboard de Claude'): el sistema por dentro, 6 slides idénticas y la plantilla de regalo. Sacó 903 comentarios, casi el doble que likes (1,96). Acá las 6 son contenedores en tránsito, stock y días de cobertura, pagos 30/70, costo puesto, caja y reposición. Es documento, no opinión, y el quiebre de stock está en 48% de las calls. Falta confirmar con Nahue si es su planilla real: casa-perfecta-cashflow se presenta como plantilla genérica, así que el hook no dice que Casa Perfecta vive ahí. Si Nahue confirma que es la real y la aprueba, puede volver ese hook. En los dos casos todas las capturas llevan datos de ejemplo: ni plata, ni contenedores, ni stock del negocio.",
+        "referencia_id": "ig_DdmHm0dHPsD"
+      },
+      {
+        "titulo": "Barco o avión en 2 minutos",
+        "formato": "Carrusel · 5 slides. Portada 'Dejá de...' con barco y avión en 3D, 3 pasos de la comparativa con captura, mockup con título y CTA",
+        "hook": "Dejá de adivinar si te conviene barco o avión. Sacá la cuenta en 2 minutos.",
+        "keyword": "BARCO",
+        "recurso": "Comparativa barco contra avión por la landing de BM: comparativa.creatubrand.com (opt-in con pixel y Sheet de leads que redirige al comparador). Nunca el link directo a comparativa-envexa.netlify.app, que es de Envexa. Después del abridor. (crear flow) BARCO",
+        "por_que": "Roba ig_DdCAOCInP4Y ('Dejá de hacer carruseles estáticos, creá carruseles animados en 5 minutos con Claude'): corta un hábito, promete un atajo con tiempo concreto y lo baja a 3 pasos. Sacó 1.572 comentarios, 2,18 por like. En la portada va tiempo, no plata: las portadas de Cubria con monto tienen mediana 115,5 contra 933 de las de herramienta. Barco y avión aparecen en más de 200 líneas de DMs cada uno. Se manda la landing y no el comparador directo para no perder el lead ni la atribución.",
+        "referencia_id": "ig_DdCAOCInP4Y"
+      },
+      {
+        "titulo": "Las 6 manos de tu contenedor",
+        "formato": "Carrusel · 8 slides. Portada con el contenedor en 3D y '6 manos', sin nombres. Una slide por mano en orden (fábrica, trader, agente de carga, naviera, despachante, flete hasta tu depósito) con qué hace y dónde cobra, mockup del mapa",
+        "hook": "Tu contenedor pasa por 6 manos antes de llegar a tu depósito.",
+        "keyword": "TRADER",
+        "recurso": "(crear) Mapa de la cadena de importación, qué hace y qué cobra cada uno + video 'El Trader en China explicado' (existe). Después del abridor. TRADER ya tuvo flow en 2024-2025: revisar qué entrega hoy y sumarle el mapa",
+        "por_que": "Roba ig_DcrG2dUnK_r ('Construí un edificio de empleados IA, 6 empleados trabajando 24/7'): metáfora visual en la portada y una slide por rol en el orden del flujo. Sacó 933 comentarios, 1,38 por like. Es el ángulo 45, el trader: 37% de las calls, el tema operativo más hablado y sin piezas. Trader va adentro y en la keyword, no en la portada, como pide la regla de jerga: la portada lleva solo el contenedor y '6 manos'. El depósito es el destino y no una mano, así que la sexta es el flete hasta tu depósito.",
+        "referencia_id": "ig_DcrG2dUnK_r"
+      },
+      {
+        "titulo": "5 de 30 mensajes para negociar",
+        "formato": "Carrusel · 7 slides. Portada con la promesa, un mensaje por slide con el texto difuminado y lo que te consigue, cierre 'estos son 5 de 30' con mockup y 'Comentá NEGOCIAR'",
+        "hook": "5 mensajes para negociar con un proveedor de China.",
+        "keyword": "NEGOCIAR",
+        "recurso": "(crear) 30 mensajes para negociar con proveedores de China (precio, mínimo de compra, muestra, fotos de fábrica, plazos de pago), en chino y en inglés para mandar, con la traducción al español para el lead. Los vendedores de 1688 casi no hablan inglés. Después del abridor. (crear flow) NEGOCIAR",
+        "por_que": "Roba ig_DctW_d9nCH1 ('5 prompts de Higgsfield': 5 ejemplos con el prompt tapado y cierre 'son 5 de 150, comentá 150'). Muestra una parte, esconde el texto y el cierre dice el tamaño de la pila. Sacó 489 comentarios. Las keywords numéricas de Cubria que cuentan herramientas tienen mediana 457 contra 120 de las que cuentan horas o páginas: el número funciona porque cuenta lo que te llevás, así que el 30 queda en el cierre y la keyword nombra el entregable, porque un número suelto es genérico y se dispara sin querer. Baja a pieza la frase firma de Nahue 'la diferencia no la hacés vendiendo más caro, la hacés comprando bien'.",
+        "referencia_id": "ig_DctW_d9nCH1"
+      },
+      {
+        "titulo": "Paraguay 2026 vs China en blanco 2026",
+        "formato": "Carrusel · 7 slides. Slides 1 y 2 puramente visuales con el contraste marcado: la bolsa 'comprar en Paraguay 2026' tachada y al tacho, 'vs', el contenedor 'importar de China en blanco 2026' con tilde. Después la cuenta lado a lado con cifras verificadas por Nahue, el riesgo de la ruta, mockup y CTA",
+        "hook": "Comprar en Paraguay 2026 vs importar de China en blanco 2026.",
+        "keyword": "COSTOS",
+        "recurso": "La Cuenta (viva, impo-la-cuenta.netlify.app): cargás lo que pagás hoy en Paraguay por unidad, a cuánto lo vendés y cuántas por mes, y te compara contra importarlo. Mismo flow COSTOS que la pieza de la cuenta (crear flow): separarlas 7 días o más. Video 'por qué no importar de Paraguay' (ubicar/crear): falta el link desde julio y no se nombra en la pieza hasta tenerlo. (crear) la cuenta Paraguay contra China lado a lado para las slides. Después del abridor",
+        "por_que": "Roba ig_DdKOC2cnG0L ('GRABAR CONTENIDO 2026 vs USAR UN CLON DE IA 2026'): contraste viejo contra nuevo en dos slides visuales, prueba y acceso como recurso. Sacó 677 comentarios, 1,17 por like. El contraste va en la portada ('vs', tacho contra contenedor) para que quede claro cuál es lo viejo. PARAGUAY como keyword ya se probó: el reel del 13-ago sacó 9. El mismo ángulo con la cuenta como recurso sí rindió: el 4-ago ('yo compro en el 11 y en Paraguay porque me sale más barato... vamos a la compu') sacó 347. Por eso cierra en COSTOS con La Cuenta. Es el ángulo 8 (Paraguay te sale más caro, ya aprobado como título de YouTube, donde el ángulo sigue firme aunque el carrusel se demore) y toca el 28, del gris al blanco, el de ticket más alto de septiembre.",
+        "referencia_id": "ig_DdKOC2cnG0L"
+      },
+      {
+        "titulo": "Urgente, para diciembre en barco ya es tarde",
+        "formato": "Historia · 5 frames en ráfaga. 1 caja roja 'urgente'; 2 prueba con un calendario de ejemplo (producción, Golden Week, barco, aduana), no el de Casa Perfecta; 3 claim en caja negra con 'diciembre' en amarillo; 4 lo que queda: avión o courier, con fecha límite; 5 CTA en caja amarilla con la keyword 2 veces y flecha al campo de mensaje",
+        "hook": "urgente. si querés vender en diciembre, en barco ya es tarde",
+        "keyword": "DICIEMBRE",
+        "recurso": "(crear) Calendario Q4 del importador: fecha límite por avión y por courier para llegar a diciembre, y por qué el barco ya no llega. Fechas validadas con Nahue o Caro antes de publicar. Después del abridor. (crear flow) DICIEMBRE",
+        "por_que": "Roba la noticia URGENTE de ig_DdO8j0qHAkz ('URGENTE / Meta mató a Claude'): palabra de alarma, un hecho con fecha y el recurso como salida. Sacó 2.052 comentarios, 28 veces la mediana histórica, y Cubria ya recicla el visual. Con un solo caso maduro es un test, y tiene que estar atado a algo cierto: con producción de 30 a 45 días, la Golden Week del 1 al 7 de octubre con fábricas paradas, unos 45 días de barco y la aduana, un pedido de fines de septiembre no llega en barco para vender en diciembre. Por eso se dice al revés (queda avión o courier), con fechas que validen Nahue o Caro. En BM el why-now Q4 ganó 12 de 29 cierres y la secuencia WHY NOW dio 12 agendas en historias.",
+        "referencia_id": "ig_DdO8j0qHAkz"
+      },
+      {
+        "titulo": "Gonzalo como prueba, no como keyword",
+        "formato": "Historia · 5 frames. 1 la pregunta como DM crudo; 2 clip de Gonzalo 'realmente lo veía imposible'; 3 claim con su cita textual y la cifra en amarillo; 4 'no hace falta un contenedor entero'; 5 CTA en caja amarilla con YO 2 veces",
+        "hook": "me preguntan si importar es solo para empresas que traen un contenedor entero",
+        "keyword": "YO",
+        "recurso": "Diagnóstico del Importador, la IA que te dice por dónde arrancar con lo que tenés (impo-diagnostico.netlify.app, viva). Después del abridor",
+        "por_que": "Roba cómo usa Cubria a Fidel en ig_DdHikVPzPiY: el cliente entra como prueba dentro de una pieza de tema con keyword YO (149 comentarios), nunca como keyword propia (FIDEL sacó 36, 27 y 10 en 30 días). Las 29 piezas con el nombre del cliente como keyword hacen el 0,7% de los comentarios, con mediana 6. En el radar Fidel aparece en 10 piezas de Cubria en 30 días, siempre con el mismo resultado (más de 100K por mes) pero con la cifra de apoyo cambiando: 7.000, 7.500 o menos de 10.000 seguidores, 6K en ads. Su cuenta, fidel_guajardo, ya está en el radar: 8.129 seguidores y 4.288 views de mediana. Acá va siempre el mismo dato de Gonzalo, textual del video: 'arranqué con la idea de una venta diaria, que para mí ya era una locura, y hoy estamos promediando unas sesenta y cinco ventas, unas sesenta ventas, depende el día'.",
+        "referencia_id": "ig_DdHikVPzPiY"
+      }
+    ],
+    "metodo": "5 lentes (motor de comentarios, reels, carruseles, temas/calendario/oferta, top vs fondo) sobre 118 piezas con 80 transcripts y 38 carruseles leídos; cada hallazgo recalculado por un verificador; control de 8 números al azar con 5 correcciones aplicadas; 20 piezas BM controladas contra reglas de copy.",
+    "fuentes": {
+      "hallazgos_4_lentes": "data/analisis/dossier-ramiro.cubria-hallazgos-4lentes.md"
+    }
+  }
+}

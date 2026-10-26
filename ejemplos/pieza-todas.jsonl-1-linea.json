@@ -1,0 +1,106 @@
+{
+  "id": "ig_De8o1s0CNjH",
+  "plataforma": "ig",
+  "cuenta": "aiagently",
+  "cuenta_fuente": "aiagently",
+  "url": "https://www.instagram.com/p/De8o1s0CNjH/",
+  "tipo_media": "carrusel",
+  "fecha": "2026-10-26T06:27:48",
+  "caption": "WhatsApp + Claude + n8n = Growth 📈",
+  "hashtags": [],
+  "likes": null,
+  "comentarios": 14,
+  "views": null,
+  "slides": [
+    "https://instagram.fsyd3-2.fna.fbcdn.net/v/t51.82787-15/867876636_17953407474333560_8071780991888532820_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNjI2MzgwODg4OTcwMjI0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjQzMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PUmOvQMPqogQ7kNvwG94RHD&_nc_oc=Ado_qHCy8rpEpiDbaQjWpBHcMl4q4ewDUORrB59eB8XqroHUT61qwI35JddKzKnieBg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd3-2.fna&_nc_gid=9aYfPJLLDdtNUphFmr1ikw&_nc_ss=7a20f&oh=00_AQOy1v2906GBzgO7ClmGqSwSbt4QkVhgtlTVsAMdC3UUkg&oe=6AE51CBB",
+    "https://instagram.fsyd4-1.fna.fbcdn.net/v/t51.82787-15/867632727_17953407426333560_949883726891083652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAxNjI2MzgwOTI3NTU2MDAxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nnE2b4o5U8kQ7kNvwHPxjAP&_nc_oc=AdqDl-J9PjHDxic46RKwv-5rEspIUujzRUBnbG4WU17yuTsKZOarXyn1jv-YUH3RJDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fsyd4-1.fna&_nc_gid=9aYfPJLLDdtNUphFmr1ikw&_nc_ss=7a20f&oh=00_AQNyr-j63eloT1cXm5LctO07RoS_HSRu2zinGqQp12f8Dw&oe=6AE52373"
+  ],
+  "fijado": false,
+  "duracion": null,
+  "semana": "2026-W44",
+  "scraped_at": "2026-10-26T10:10:06-03:00",
+  "semana_primera": "2026-W44",
+  "slides_local": [
+    "slides/ig_De8o1s0CNjH/01.jpg",
+    "slides/ig_De8o1s0CNjH/02.jpg",
+    "slides/ig_De8o1s0CNjH/03.jpg",
+    "slides/ig_De8o1s0CNjH/04.jpg",
+    "slides/ig_De8o1s0CNjH/05.jpg",
+    "slides/ig_De8o1s0CNjH/06.jpg",
+    "slides/ig_De8o1s0CNjH/07.jpg"
+  ],
+  "slides_texto": [
+    {
+      "n": 1,
+      "texto": "One of the simple way to create Whatsapp AI Agent With Claude",
+      "visual": "Portada blanca con logos de WhatsApp y Claude y foto de un joven de negro trabajando en laptop en silla de oficina."
+    },
+    {
+      "n": 2,
+      "texto": "STEP 1 — OPEN CLAUDE AND BUILD YOUR WHATSAPP AI AGENT\nIn just a few steps, set up a WhatsApp AI agent that answers customers, qualifies leads, answers FAQs and books appointments.\n1 Open Claude — Open Claude and go to Claude Code.\n2 Create a Folder — In Clsude Code, create a new folder for your project. (mkdir whatsapp-ai-agent / cd whatsapp-ai-agent / code .)\n3 Tell Claude — Paste this prompt and run it. \"Build me a beginner-friendly WhatsApp AI agent. Use: WhatsApp Business Cloud, n8n, Claude. The agent must answer customers, qualify leads, answer FAQs and book appointments. Explain everything step by step and do as much setup as possible for me.\"\n4 Claude Sets Up Everything — Claude will guide you and create: WhatsApp Business Cloud setup; n8n workflow (ready to import); Claude AI integration; Lead qualification flow; FAQ auto responses; Appointment booking (Google Calendar); All configuration steps; Test messages\n5 Your WhatsApp AI Agent is Ready — Add your WhatsApp number and start chatting. (Hi 👋 How can I help you today? / I want to book an appointment / Sure! What date and time works best for you?) Answers Customers · Qualifies Leads · Answers FAQs · Books Appointments\nResult: Your own WhatsApp AI Agent ready in a few steps. 24/7 Customer Support · More Qualified Leads · More Appointments · Grow Your Business",
+      "visual": "Infografía de 5 pasos numerados en rojo con capturas de Claude Code, terminal y chat de WhatsApp."
+    },
+    {
+      "n": 3,
+      "texto": "STEP 2 — TELL CLAUDE ABOUT YOUR BUSINESS\nGive Claude all the details so it understands your business and can answer customers like a professional employee.\n1 Prepare Your Information — Collect the key details about your business. Business name e.g. Hercules Detailing; Website e.g. herculesdetailing.com; Services e.g. Car wash, detailing, ceramic coating; Prices e.g. Basic wash $50, Full detail $150; Opening hours e.g. Mon–Sat 9AM–7PM; Location e.g. Los Angeles, CA; FAQs e.g. How long does it take?; Booking link e.g. cal.com/hercules; Contact details e.g. +1 323 555 0123, info@hercules.com\n2 Give This Prompt to Claude — Paste this prompt and add your business details. \"Study my business and create the knowledge base for my WhatsApp AI agent. Business name: [Your Business Name] Website: [Your Website] Services: [List your services] Prices: [List your prices] Opening hours: [Your hours] Location: [Your location] FAQs: [Common questions and answers] Booking link: [Your booking link] Contact details: [Phone, email, etc.] The agent should answer like a professional employee. Never invent information. If it doesn't know something, ask the customer for clarification or hand the conversation to a human.\"\n3 Claude Creates Your Knowledge Base — Claude will organize all your information into a clear knowledge base for the AI agent. (01 Business Info, 02 Services & Prices, 03 FAQs, 04 Policies, 05 Booking, 06 Contact Details)\n4 Claude Understands Your Business — Now Claude knows everything about your business and will answer customers accurately. Answers customers accurately · Uses your services & prices · Answers FAQs · Shares booking link and books appointments · Asks for clarification or hands to a human\nResult: Claude now fully understands your business and is ready to talk to your customers. Better Customer Support · More Qualified Leads · More Appointments · Grow Your Business",
+      "visual": "Infografía de 4 bloques con lista de datos del negocio, prompt de Claude, knowledge base y chat de ejemplo."
+    },
+    {
+      "n": 4,
+      "texto": "STEP 3 — CREATE YOUR WHATSAPP BUSINESS API\nGo to Meta for Developers, create an app, add WhatsApp Business Platform, and get your test WhatsApp number and API details.\n1 Go to Meta for Developers — Open developers.facebook.com and log in with your Facebook account.\n2 Create a New App — Click \"My Apps\" → \"Create App\" and choose \"Business\".\n3 Add WhatsApp Business Platform — In your app dashboard, click \"Add Product\" and select \"WhatsApp Business Platform\".\n4 Get a Test WhatsApp Number — After adding WhatsApp, set it up. Meta will give you a test WhatsApp number so you can build and test everything before using your real number.\n5 Get Your API Details — From your WhatsApp app dashboard, copy these 3 important details. (Access Token, WhatsApp Business Account ID, Phone Number ID)\n6 Keep These Ready — You will need these 3 details to connect WhatsApp with n8n and Claude. Access Token: Used to send and receive messages. WhatsApp Business Account ID: Your business account on Meta. Phone Number ID: For your test number (or real number later).\nResult: You get a test WhatsApp number and all the API details. ✓ Access Token ✓ WhatsApp Business Account ID ✓ Phone Number ID",
+      "visual": "Infografía con capturas de Meta for Developers, creación de app y panel de credenciales API."
+    },
+    {
+      "n": 5,
+      "texto": "STEP 4 — CONNECT WHATSAPP TO N8N\nOpen n8n, paste your workflow, add the WhatsApp API, and let messages flow into your automation instantly.\n1 Open n8n — Start inside your n8n workspace.\n2 Ask Claude for the Workflow — Use this prompt. \"Create the WhatsApp ai agent json workflow for that handle customer support\"\n3 Paste the JSON Workflow — Import the workflow into n8n. (workflow.json 34 KB / Import Workflow / Paste the JSON workflow)\n4 Add WhatsApp API — Connect your credentials. WhatsApp Business API — Connect your account: Access Token, WhatsApp Business Account ID, Phone Number ID — Connect. Add: WhatsApp api\n5 How the Trigger Works — Your automation starts the moment a customer sends a message. Customer sends a message → n8n receives the message instantly → Your workflow starts (eg. AI agent, support flow). The trigger means: Someone messages WhatsApp → n8n immediately receives the message. Your workflow starts: WhatsApp → n8n\nReceives messages instantly · Starts workflow automatically · Customer support automation · Ready for Claude logic\nResult: WhatsApp is now connected to n8n and ready to automate customer support. Instant Triggers · Faster Replies · Better Support · More Automation",
+      "visual": "Infografía con capturas de n8n, importación de JSON, credenciales y diagrama del trigger."
+    },
+    {
+      "n": 6,
+      "texto": "STEP 5 — YOUR WHATSAPP AI AGENT IS READY\nNow test your AI agent and make sure everything works perfectly.\nTest Your AI Agent — Send these messages and check the responses.\n1. Send: \"Hi\"\n2. Ask Services: \"What services do you offer?\"\n3. Ask Price: \"How much does it cost?\"\n4. Book Appointment: \"Can I book tomorrow?\"\n5. Ask for Human: \"I want to speak with a human.\"\nMake Sure The Agent: understands the question; gives the correct answer; remembers the conversation; books correctly; never invents information; knows when to call a human\nResult: Your WhatsApp AI Agent is live and working! 🎉",
+      "visual": "Mockup de iPhone con conversación completa de una inmobiliaria junto al checklist de pruebas."
+    },
+    {
+      "n": 7,
+      "texto": "NEED AN AI SYSTEM FOR YOUR BUSINESS?\nWant a WhatsApp AI agent, AI receptionist, automation, or a custom AI system?\nEmail Usama — usama@aiagently.io — Tell me about your business and the AI system you want.\nWhatsApp AI Agent · Lead Automation · Customer Support · Appointment Booking\nResult: Your business can get a custom AI system built for it. Email: usama@aiagently.io",
+      "visual": "Slide final blanca con titular rojo y negro, caja de email destacada e íconos de servicios."
+    }
+  ],
+  "lectura": {
+    "diseno": "Estilo infografía editorial: fondo blanco/rosa claro, títulos en negro y rojo con itálica condensada, tarjetas redondeadas, numeración en círculos rojos, capturas de pantalla reales y bloque 'Result' al pie de cada slide.",
+    "estructura": "Portada con promesa → 5 slides tutoriales numerados (Claude, knowledge base, API de Meta, n8n, testeo), cada uno con subpasos y resultado → slide de oferta de servicios.",
+    "cierre": "CTA directo: contactar por email a usama@aiagently.io para un sistema de IA a medida, reforzado con los 4 servicios ofrecidos."
+  },
+  "analisis": {
+    "formato": "carrusel",
+    "tipo": "solucion",
+    "nivel_conciencia": "consciente_solucion",
+    "hook_texto": "WhatsApp + Claude + n8n = Growth",
+    "hook_patron": "fórmula de herramientas = resultado",
+    "estructura": [
+      "ecuación de herramientas como gancho",
+      "paso 1 con prompt textual copiable",
+      "paso 2 con datos del negocio a cargar",
+      "resultado: agente funcionando 24/7"
+    ],
+    "cta": "",
+    "keyword": "WhatsApp AI agent",
+    "por_que_pega": "Da prompts listos para copiar y un resultado tangible (agente que atiende y agenda), lo que empuja guardados y comentarios pidiendo el workflow.",
+    "angulo_bm_id": 0,
+    "angulo_bm_nombre": "",
+    "recreable": true,
+    "como_recrear": "Carrusel con el prompt exacto para que la IA te arme el pedido de cotización a un proveedor chino o te traduzca la negociación con el trader, mismo formato copiable.",
+    "temas": [
+      "IA",
+      "automatizacion",
+      "whatsapp"
+    ],
+    "recurso_prometido": "Prompts y workflow del agente",
+    "angulo_comunicacion": "un empleado de IA que atiende clientes 24/7",
+    "tipo_angulo": "educativo_como",
+    "avatar": "dueño de negocio que atiende por whatsapp",
+    "promesa": "Un agente de IA que responde, califica leads y agenda turnos solo",
+    "modelo": "claude-opus-5",
+    "con_medios": true
+  }
+}

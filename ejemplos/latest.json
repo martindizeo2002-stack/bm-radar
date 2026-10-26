@@ -1,0 +1,469 @@
+{
+  "generado": "2026-10-26T10:11:15-03:00",
+  "semana": "2026-W44",
+  "demo": false,
+  "kpis": {
+    "piezas": 6,
+    "cuentas": 6,
+    "bangers": 0,
+    "comentarios": 66,
+    "analizadas": 6,
+    "recreables": 6,
+    "recreadas": 0,
+    "con_views": 1,
+    "cuentas_con_baseline": 6
+  },
+  "piezas": [
+    {
+      "id": "ig_Dd4uqAdh8PI",
+      "plataforma": "ig",
+      "cuenta": "ramiro.cubria",
+      "cuenta_fuente": "ramiro.cubria",
+      "url": "https://www.instagram.com/p/Dd4uqAdh8PI/",
+      "tipo_media": "reel",
+      "fecha": "2026-09-29T21:30:09",
+      "semana": "2026-W40",
+      "caption": "Comentá EDITAR ⤵️",
+      "likes": 17481,
+      "comentarios": 27719,
+      "views": 757612,
+      "duracion": 42.466667,
+      "tasa_com": 0.0366,
+      "outlier": 56.91,
+      "outlier_com": 486.3,
+      "eng_x_seg": 0.0909,
+      "dias": 26.7,
+      "velocidad": 1040.0,
+      "score": 98,
+      "fijado": false,
+      "analisis": {
+        "formato": "screen_recording",
+        "tipo": "solucion",
+        "nivel_conciencia": "consciente_problema",
+        "hook_texto": "ChatGPT ahora puede editar videos por vos",
+        "hook_patron": "herramienta conocida hace algo nuevo que no sabías",
+        "estructura": [
+          "novedad: ChatGPT edita video",
+          "qué hace exactamente (subtítulos, cortes, animaciones)",
+          "tutorial de configuración paso a paso en pantalla",
+          "resultado listo para publicar",
+          "CTA comentá EDITAR por la guía"
+        ],
+        "cta": "Comentá EDITAR y te mando la guía de configuración",
+        "keyword": "EDITAR",
+        "por_que_pega": "Curiosidad por novedad de IA más demo rápida que prueba que funciona; la guía de setup promete ahorrarte el paso difícil y eso dispara el comentario.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Mismo formato screen recording con 1688/Alibaba: mostrar en 30 segundos cómo buscar el producto por imagen y sacar el precio FOB real, y regalar la guía de búsqueda a cambio del comentario.",
+        "temas": [
+          "IA",
+          "edición de video",
+          "herramientas",
+          "tutorial"
+        ],
+        "recurso_prometido": "Guía completa de configuración",
+        "angulo_comunicacion": "editá tus videos gratis con IA en 30 segundos",
+        "tipo_angulo": "curiosidad_revelacion",
+        "avatar": "creador que edita sus propios videos",
+        "promesa": "Editar tus videos automáticamente sin pagar editor",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "transcript": "ChatGPT ahora puede editar videos por vos. Simplemente subís cualquier video y ChatGPT puede agregar subtítulos, cortar silencios e incluso agregar animaciones en la pantalla. Es una locura. Te muestro cómo configurarlo en 30 segundos. Primero vas a ChatGPT y elegís la pestaña de Codex. Después haces clic en Plugins y elegís Remotion. Y le das clic a Instalar plugin. Ahora agarrás el video que quieras editar, lo arrastrás adentro de Codex y listo. Le podés poner cosas como editar este video, cortarle los silencios, ponerle subtítulos en la pantalla. y en los momentos clave agregá alguna animación y ChatGPT te devuelve el video editado y listo para publicar. Es una puta locura. Si querés que te mande la guía completa de configuración, comenta editar y yo te mando la guía completa en menos de un minuto por mensaje privado.",
+      "thumb_local": "thumbs/ig_Dd4uqAdh8PI.jpg"
+    },
+    {
+      "id": "ig_De7oNluuFFq",
+      "plataforma": "ig",
+      "cuenta": "agustinbadt",
+      "cuenta_fuente": "agustinbadt",
+      "url": "https://www.instagram.com/p/De7oNluuFFq/",
+      "tipo_media": "reel",
+      "fecha": "2026-10-25T21:04:45",
+      "semana": "2026-W43",
+      "caption": "→ Comenta ‘DUO ‘ y te comparto el prompt para crear el video con las animaciones con IA",
+      "likes": 3260,
+      "comentarios": 6585,
+      "views": 132241,
+      "duracion": 19.71229,
+      "tasa_com": 0.0498,
+      "outlier": 17.96,
+      "outlier_com": 45.57,
+      "eng_x_seg": 0.1942,
+      "dias": 0.7,
+      "velocidad": 9811.0,
+      "score": 98,
+      "fijado": false,
+      "analisis": {
+        "formato": "texto_pantalla",
+        "tipo": "tofu",
+        "nivel_conciencia": "inconsciente",
+        "hook_texto": "Cinco minutos al día. Eso es todo lo que necesitas.",
+        "hook_patron": "X minutos al día es todo lo que necesitás",
+        "estructura": [
+          "promesa mínima de esfuerzo",
+          "acumulación de beneficios",
+          "giro: todas las habilidades en un camino",
+          "CTA keyword por el prompt"
+        ],
+        "cta": "Comentá DUO y te mando el prompt",
+        "keyword": "DUO",
+        "por_que_pega": "El video es un spot de IA vistoso: la gente comenta por el prompt, no por el contenido. Curiosidad por el 'cómo se hizo' más keyword simple.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Armar un spot animado con IA de 'tu marca propia hecha en China' y regalar el prompt con keyword, usando el video como vidriera del resultado.",
+        "temas": [
+          "ia",
+          "prompt",
+          "animacion"
+        ],
+        "recurso_prometido": "Prompt para crear el video con animaciones con IA",
+        "angulo_comunicacion": "te regalo el prompt del video que estás viendo",
+        "tipo_angulo": "curiosidad_revelacion",
+        "avatar": "creador de contenido que quiere usar IA",
+        "promesa": "Replicar el video animado con un prompt",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "transcript": "Cinco minutos al día. Eso es todo lo que necesitas. Una palabra a la vez. Una racha que no vas a querer perder. Una liga que vas a querer ganar. Y de repente, un día, simplemente hablas. Idiomas, matemáticas, música, hasta ajedrez. Un solo camino. Todas las habilidades. Bolingo.",
+      "thumb_local": "thumbs/ig_De7oNluuFFq.jpg"
+    },
+    {
+      "id": "ig_DeqGrNwHDyo",
+      "plataforma": "ig",
+      "cuenta": "ramiro.cubria",
+      "cuenta_fuente": "ramiro.cubria",
+      "url": "https://www.instagram.com/p/DeqGrNwHDyo/",
+      "tipo_media": "carrusel",
+      "fecha": "2026-10-19T01:42:57",
+      "semana": "2026-W43",
+      "caption": "Comentá PDF ⤵️",
+      "likes": 1675,
+      "comentarios": 3557,
+      "views": null,
+      "duracion": null,
+      "tasa_com": null,
+      "outlier": 10.47,
+      "outlier_com": 62.4,
+      "eng_x_seg": 0.0105,
+      "dias": 7.5,
+      "velocidad": 475.7,
+      "score": 96,
+      "fijado": false,
+      "analisis": {
+        "formato": "carrusel",
+        "tipo": "solucion",
+        "nivel_conciencia": "consciente_solucion",
+        "hook_texto": "ÚLTIMO MOMENTO: Meta lanza nueva función de IA para correr todos tus anuncios",
+        "hook_patron": "placa de último momento con novedad de plataforma",
+        "estructura": [
+          "placa de noticia urgente",
+          "explica la integración y que es oficial y sin riesgo",
+          "lista de todo lo que puede hacer",
+          "captura de resultado real con números",
+          "CTA comentá PDF por el manual"
+        ],
+        "cta": "Comentá PDF para recibir el manual de instalación",
+        "keyword": "PDF",
+        "por_que_pega": "El formato noticia más el miedo a quedarse afuera de una función nueva empuja el comentario; las capturas con números reales dan prueba.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Placa 'último momento: se abrieron las importaciones' con el detalle de qué cambió y comentá keyword para el manual de cómo aprovecharlo (ángulo 39).",
+        "temas": [
+          "Meta ads",
+          "IA",
+          "automatización",
+          "trafficker"
+        ],
+        "recurso_prometido": "Manual en PDF para instalar el trafficker con IA",
+        "angulo_comunicacion": "olvidate de depender de un trafficker",
+        "tipo_angulo": "oportunidad_why_now",
+        "avatar": "dueño de negocio que paga un trafficker",
+        "promesa": "Correr tus anuncios en automático sin depender de un trafficker",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "slides_texto": [
+        {
+          "n": 1,
+          "texto": "• ÚLTIMO MOMENTO\nMeta lanza nueva función de IA para correr todos tus anuncios.\nDeslizá para conocer más →",
+          "visual": "Mark Zuckerberg con remera del logo de Meta, conectado a cables en un entorno futurista azulado; etiqueta y título en blanco y celeste."
+        },
+        {
+          "n": 2,
+          "texto": "Meta lanzó una integración oficial con Claude para correr tus ads.\nSe conecta en 5 minutos, de forma 100% oficial, sin riesgo alguno de baneo.\nSetting up a paused draft campaign with sample ad...\nArmo todo en pausado (sin gasto) para que grabes tranquilo: campaña + 3 conjuntos + 3 anuncios con creativos existentes.\nUsed Cuenta de Ramiro, read memory\nCuenta de Ramiro\n@ramiro.cubria",
+          "visual": "Captura de un chat de Claude conectado a la cuenta de Meta, con flecha blanca y tablets de fondo."
+        },
+        {
+          "n": 3,
+          "texto": "El trafficker con Claude puede:\n→ Montar los ads desde un Google Drive y configurar la campaña entera.\n→ Analizar métricas. Ajustar presupuestos.\n→ Rotar creativos. Meter variantes de copys.\n→ Sugerir nuevos públicos.\n→ Avisar cuando se saturan los ads.\n→ Armar reglas personalizadas de prendido/apagado de ads.\nY mucho más....\n@ramiro.cubria",
+          "visual": "Lista de bullets con flechas celestes sobre fondo oscuro y logos 3D de Claude flotando."
+        },
+        {
+          "n": 4,
+          "texto": "• RESULTADO\nAnuncios en automático manejados por un experto (la IA).\nQue sugerencias me das para la campaña de TOFU?\nUsed Cuenta de Ramiro\nRevisé los últimos 7 días de la campaña. Gastó USD 2.185 y trajo 52.400 visitas al perfil a USD 0,04 cada una, lo cual se ve barato. Pero esas visitas se convirtieron en apenas 315 seguidores, a unos USD 6,90 cada uno. Solo 6 de cada 1.000 visitas terminan siguiéndote, y ahí está el problema principal.\n→ Olvidate de depender de un trafficker.\n@ramiro.cubria",
+          "visual": "Captura de chat con análisis de métricas de campaña y logos 3D de Claude alrededor."
+        },
+        {
+          "n": 5,
+          "texto": "100% OFICIAL\nINSTALAR TRAFFICKER CON IA\nComentá \"PDF\"\npara recibir el manual de cómo instalar el trafficker con IA de forma 100% oficial.",
+          "visual": "Mockup 3D de un ebook con logos de Meta y Claude y botón de CTA para comentar."
+        }
+      ],
+      "slides_local": [
+        "slides/ig_DeqGrNwHDyo/01.jpg",
+        "slides/ig_DeqGrNwHDyo/02.jpg",
+        "slides/ig_DeqGrNwHDyo/03.jpg",
+        "slides/ig_DeqGrNwHDyo/04.jpg",
+        "slides/ig_DeqGrNwHDyo/05.jpg"
+      ],
+      "lectura": {
+        "diseno": "Estética oscura tipo tech/SaaS: fondos negro-azulados con degradés, tipografía sans bold blanca con palabras clave en celeste, badges con borde luminoso, capturas de chat y renders 3D de los logos; firma @ramiro.cubria y flecha de avance en el pie.",
+        "estructura": "Hook noticioso con 'último momento' → anuncio de la integración Meta+Claude con prueba visual → lista de capacidades → resultado con caso real de métricas → oferta del recurso gratuito.",
+        "cierre": "CTA de lead magnet: comentar 'PDF' para recibir el manual de instalación del trafficker con IA, reforzado en el caption."
+      },
+      "thumb_local": "thumbs/ig_DeqGrNwHDyo.jpg"
+    },
+    {
+      "id": "ig_DeIBVt_kdFf",
+      "plataforma": "ig",
+      "cuenta": "michaelaiacademy",
+      "cuenta_fuente": "michaelaiacademy",
+      "url": "https://www.instagram.com/p/DeIBVt_kdFf/",
+      "tipo_media": "carrusel",
+      "fecha": "2026-10-05T20:02:09",
+      "semana": "2026-W41",
+      "caption": "Comment PROMPT for the full workflow and the prompts",
+      "likes": 648,
+      "comentarios": 2128,
+      "views": null,
+      "duracion": null,
+      "tasa_com": null,
+      "outlier": 24.0,
+      "outlier_com": 38.69,
+      "eng_x_seg": 0.0128,
+      "dias": 20.7,
+      "velocidad": 102.7,
+      "score": 96,
+      "fijado": false,
+      "analisis": {
+        "formato": "carrusel",
+        "tipo": "solucion",
+        "nivel_conciencia": "consciente_solucion",
+        "hook_texto": "How to create a realistic AI influencer in 10 minutes. She is AI generated",
+        "hook_patron": "cómo hacer X en 10 minutos + prueba visual",
+        "estructura": [
+          "promesa de resultado en 10 minutos con prueba visual",
+          "el modelo de negocio detrás",
+          "pasos numerados con prompts completos",
+          "automatización del contenido",
+          "cómo se monetiza"
+        ],
+        "cta": "Comentá PROMPT y te mando el workflow completo",
+        "keyword": "PROMPT",
+        "por_que_pega": "Entrega prompts reales a la vista (prueba de valor) pero deja el workflow completo detrás del comentario: lista incompleta clásica más promesa de ingreso sin audiencia.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Carrusel 'cómo encontrar tu primer producto para importar en 10 minutos' con pasos numerados y capturas reales de 1688, dejando la planilla de costos detrás del comentario.",
+        "temas": [
+          "IA",
+          "influencer virtual",
+          "prompts",
+          "monetización"
+        ],
+        "recurso_prometido": "workflow completo y prompts por DM",
+        "angulo_comunicacion": "ganar plata con una influencer que no existe",
+        "tipo_angulo": "deseo_aspiracional",
+        "avatar": "aspirante a ingreso online sin audiencia",
+        "promesa": "Monetizar sin audiencia ni millones de views",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "slides_texto": [
+        {
+          "n": 1,
+          "texto": "1/8\nHow to create a realistic AI Influencer in 10 minutes\nShe is AI generated\nSwipe to see how →",
+          "visual": "Primer plano de una modelo femenina generada por IA sobre fondo blanco, con flecha curva apuntando a su rostro."
+        },
+        {
+          "n": 2,
+          "texto": "2/8\nTHE BUSINESS MODEL\nGet paid with an AI influencer.\nWithout having an audience or millions of views.",
+          "visual": "La misma modelo de cuerpo entero sosteniendo un producto cosmético, fondo blanco."
+        },
+        {
+          "n": 3,
+          "texto": "3/8\nSTEP 1\nGo to Pinterest\nSelect a base character you like.",
+          "visual": "Mockup de iPhone con búsqueda 'character inspiration' en Pinterest y grilla de retratos."
+        },
+        {
+          "n": 4,
+          "texto": "4/8\nSTEP 2\nSet up your model sheet\nUse this prompt in ChatGPT.\nAI INFLUENCER PROMPT\nCreate an original adult AI influencer inspired by the reference. Give her a distinct identity with blue-grey eyes, long light-brown hair and warm natural skin. Build a consistent model sheet with a front portrait, left and right profiles, a three-quarter view and a full-body view. Preserve the same facial proportions, eye shape, nose, jawline, hairline and body proportions in every image. Use soft daylight, realistic anatomy, visible pores, fine facial hair and subtle skin imperfections. Keep styling simple and the background clean. Avoid beauty filters, plastic skin and exaggerated features.\nComment PROMPT and I'll send it to you.",
+          "visual": "Tablet mostrando un model sheet con seis vistas del personaje; caja de prompt gris a la izquierda."
+        },
+        {
+          "n": 5,
+          "texto": "5/8\nSTEP 3\nAdd realism\nUse this prompt.\nREALISM PROMPT\nCreate an ultra-detailed photographic close-up of this exact adult character. Preserve her identity and facial proportions. Show fine pores, peach fuzz, baby hairs, individual eyebrow strands, subtle under-eye texture, faint expression lines, tiny imperfections and natural pigmentation. Keep realistic skin translucency, soft uneven highlights, detailed irises and natural lip texture. Light her with soft window daylight and gentle shadows. Use a macro portrait lens with accurate focus and believable depth of field. Preserve asymmetry and lifelike anatomy. No glamour retouching, waxy skin, artificial glow, over-sharpening or perfectly generated hair edges.\n(You'll also get it at the end.)",
+          "visual": "Close-up hiperrealista del rostro con caja de prompt superpuesta a la izquierda."
+        },
+        {
+          "n": 6,
+          "texto": "6/8\nSTEP 4\nFind viral content\nScrape Instagram for viral content.\nSet up ChatGPT to look for viral content that you can recreate.\nViral content research\nFind viral Instagram content in the fitness, wellness and productivity niche.\nReels Posts Creators Trends\n2.4M views 850K views 1.1M views 720K views",
+          "visual": "Mockup de celular con panel de investigación de contenido viral y reels con métricas."
+        },
+        {
+          "n": 7,
+          "texto": "7/8\nSTEP 5\nTurn it into a skill\nSet up a ChatGPT skill to reproduce viral content with your influencer.\nVideos and carousels.\nFully automated.\nAI Influencer Content\nSkill ready\n1 Find inspiration Analyze trending content from Instagram and YouTube.\n2 Create with your influencer Generate scripts, captions and visual concepts.\n3 Generate videos & carousels Produce ready-to-post content automatically.",
+          "visual": "Tablet con interfaz de 'skill' de ChatGPT en 3 pasos y dos fotos del personaje."
+        },
+        {
+          "n": 8,
+          "texto": "8/8\nSTEP 6\nGet paid.\nUGC\nAds\nVideos\nDigital product sales\nComment PROMPT for the full system.",
+          "visual": "La modelo de cuerpo entero señalando hacia la lista de formas de monetización."
+        }
+      ],
+      "slides_local": [
+        "slides/ig_DeIBVt_kdFf/01.jpg",
+        "slides/ig_DeIBVt_kdFf/02.jpg",
+        "slides/ig_DeIBVt_kdFf/03.jpg",
+        "slides/ig_DeIBVt_kdFf/04.jpg",
+        "slides/ig_DeIBVt_kdFf/05.jpg",
+        "slides/ig_DeIBVt_kdFf/06.jpg",
+        "slides/ig_DeIBVt_kdFf/07.jpg",
+        "slides/ig_DeIBVt_kdFf/08.jpg"
+      ],
+      "lectura": {
+        "diseno": "Minimalismo tipo Apple: fondo blanco, tipografía sans-serif negra ultra bold, etiquetas en píldoras negras, cajas de prompt gris claro con fuente monoespaciada, mockups de iPhone/iPad y numeración x/8 arriba a la derecha.",
+        "estructura": "Hook visual con revelación ('ella es IA') → promesa de modelo de negocio → 6 pasos numerados (Pinterest, model sheet, realismo, contenido viral, skill automatizada, monetización), alternando texto a la izquierda e imagen/mockup a la derecha.",
+        "cierre": "CTA de comentario: 'Comment PROMPT for the full system', repetido en slide 4 y en el caption, para capturar leads vía DM."
+      },
+      "thumb_local": "thumbs/ig_DeIBVt_kdFf.jpg"
+    },
+    {
+      "id": "ig_DeEH5Z9OkGk",
+      "plataforma": "ig",
+      "cuenta": "nocodealex",
+      "cuenta_fuente": "nocodealex",
+      "url": "https://www.instagram.com/p/DeEH5Z9OkGk/",
+      "tipo_media": "reel",
+      "fecha": "2026-10-04T07:43:11",
+      "semana": "2026-W40",
+      "caption": "Comment “COURT” and I’ll DM you the free skill that puts your idea on trial in front of 12 Claudes. Follow so the DM lands 📩\n\n👇 READ BELOW for how the trial works:\n\n1. Claude tends to agree with whatever you say, so this skill makes it argue with itself instead.\n\n2. One Claude argues your idea will fail. Another argues it will work.\n\n3. 12 Claude jurors read both sides and vote guilty or not guilty, without seeing each other’s votes.\n\n4. Every juror judges it as someone different: an accountant, a customer, a competitor and more.\n\n5. Then a judge Claude reads the verdict and makes the call.\n\nWhat you get: an honest answer on your idea, not a yes.\n\nWhy it works: ask one AI if your idea is good and it tends to say yes. Splitting the job between a prosecutor, a defender, 12 jurors and a judge forces it to argue the downsides too, and the blind vote stops the jurors from simply agreeing with each other.\n\nSave this one for later.\n\nIt’s completely free. Paste it in and test it on your next idea.\n\nComment “COURT” for the skill.\n\n#claudeai #claudecode #claude #claudetips",
+      "likes": 20385,
+      "comentarios": 15369,
+      "views": 473704,
+      "duracion": 28.535873,
+      "tasa_com": 0.0324,
+      "outlier": 10.39,
+      "outlier_com": 37.21,
+      "eng_x_seg": 0.9966,
+      "dias": 22.2,
+      "velocidad": 691.4,
+      "score": 95,
+      "fijado": false,
+      "analisis": {
+        "formato": "demo_producto",
+        "tipo": "solucion",
+        "nivel_conciencia": "consciente_solucion",
+        "hook_texto": "I built a courtroom where 12 Claudes put your idea on trial",
+        "hook_patron": "construí un sistema absurdo que resuelve un problema real",
+        "estructura": [
+          "anuncio del invento llamativo",
+          "problema que resuelve (la IA te dice que sí a todo)",
+          "cómo funciona paso a paso",
+          "beneficio: respuesta honesta",
+          "CTA keyword por el link gratis"
+        ],
+        "cta": "Comentá 'COURT' por la skill gratis",
+        "keyword": "COURT",
+        "por_que_pega": "La metáfora del juicio con 12 jurados es visual y rara, y toca el dolor conocido de que la IA te adula; el recurso es gratis y concreto.",
+        "angulo_bm_id": 0,
+        "angulo_bm_nombre": "",
+        "recreable": true,
+        "como_recrear": "Armar un 'tribunal del producto': pasar una idea de producto a importar por filtros de costo, aduana, rotación y competencia y mostrar el veredicto en pantalla.",
+        "temas": [
+          "Claude",
+          "validación de ideas",
+          "skill"
+        ],
+        "recurso_prometido": "Skill gratis que somete tu idea a juicio",
+        "angulo_comunicacion": "la IA te dice que sí a todo, hacela discutir",
+        "tipo_angulo": "contrarian",
+        "avatar": "emprendedor que valida ideas con IA",
+        "promesa": "Una respuesta honesta sobre tu idea, no un sí",
+        "modelo": "claude-opus-5",
+        "con_medios": true
+      },
+      "transcript": "I built a courtroom where 12 Claude's put your idea on trial. That's because Claude agrees with everything you say, so I made it argue with itself instead. So one Claude argues that your idea will fail, and another Claude argues it will work. Then, 12 Claude jurors read both sides and vote guilty or not guilty without seeing each other's votes. And get this, every juror judges it as someone different, like an accountant, a customer, or a competitor. This means you finally get an honest answer. Then, a judge Claude reads the verdict and makes a decision. Good thing I made this completely free, and you can test it out yourself right now, for the link comment course.",
+      "thumb_local": "thumbs/ig_DeEH5Z9OkGk.jpg"
+    }
+  ],
+  "ventana_dias": 30,
+  "tendencias": {
+    "formatos": {
+      "carrusel": 4,
+      "talking_head": 1,
+      "otro": 1
+    },
+    "hooks_repetidos": {}
+  },
+  "semillas": [
+    {
+      "handle": "nahue.urso",
+      "tags": [
+        "propia"
+      ],
+      "activa": true,
+      "nota": "baseline propia, no se recrea",
+      "seguidores": 102893,
+      "piezas_semana": 0,
+      "comentarios_semana": null,
+      "bangers": 0,
+      "med_views": 2883.5,
+      "med_likes": 22.5,
+      "n_baseline": 30
+    },
+    {
+      "handle": "woker.oficial",
+      "tags": [
+        "competencia",
+        "nicho"
+      ],
+      "activa": true,
+      "nota": "Woker (Joaquín Méndez). Jamás nombrar en piezas.",
+      "seguidores": 322042,
+      "piezas_semana": 0,
+      "comentarios_semana": null,
+      "bangers": 0,
+      "med_views": 6218.0,
+      "med_likes": 66.5,
+      "n_baseline": 30
+    },
+    {
+      "handle": "nicolorenzonn",
+      "tags": [
+        "competencia",
+        "nicho"
+      ],
+      "activa": true,
+      "nota": "Nico Lorenzón (4,58M seg, Ecommerce | Importación). Corregido 25-sep: @nicolorenzon era un homónimo de 2010. Copia recursos; vigilar",
+      "seguidores": 4585910,
+      "piezas_semana": 0,
+      "comentarios_semana": null,
+      "bangers": 0,
+      "med_views": 356276.0,
+      "med_likes": 1755.0,
+      "n_baseline": 30
+    }
+  ],
+  "comentarios": null,
+  "fuentes": {
+    "piezas": "Apify instagram-scraper (apify~instagram-scraper)",
+    "comentarios": "Apify instagram-comment-scraper",
+    "analisis": "claude-opus-5",
+    "corte": "2026-10-26 10:11 ART"
+  }
+}

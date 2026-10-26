@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.tincho.bm-barrido</string>
+  <key>ProgramArguments</key>
+  <array><string>/Users/tincho/bm-barrido/.venv/bin/python3</string><string>/Users/tincho/bm-barrido/barrido.py</string></array>
+  <key>WorkingDirectory</key><string>/Users/tincho/bm-barrido</string>
+  <key>EnvironmentVariables</key><dict><key>PATH</key><string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string></dict>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>9</integer><key>Minute</key><integer>35</integer></dict>
+    <dict><key>Hour</key><integer>21</integer><key>Minute</key><integer>35</integer></dict>
+  </array>
+  <key>StandardOutPath</key><string>/Users/tincho/bm-barrido/log/launchd.log</string>
+  <key>StandardErrorPath</key><string>/Users/tincho/bm-barrido/log/launchd.log</string>
+</dict>
+</plist>
